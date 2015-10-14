@@ -132,14 +132,14 @@ Java资源大全中文版。以awesome Java为基石，持续更新最新的Java
 * [Sat4J](http://www.sat4j.org/)：逻辑代数与优化问题最先进的求解程序。
 
 <h3 id="continuous-integration">持续集成</h3>
-* [Bamboo](https://www.atlassian.com/software/bamboo) - Atlassian's solution with good integration of their other products. You can either apply for an open-source license or buy it.
-* [CircleCI](https://circleci.com/) - Hosted service with a free trial.
-* [Codeship](https://www.codeship.io/features) - Hosted services with a limited free plan.
-* [fabric8](http://fabric8.io/) - Integration platform for containers.
-* [Go](http://www.thoughtworks.com/products/go-continuous-delivery) - ThoughtWork's open-source solution.
-* [Jenkins](http://jenkins-ci.org/) - Provides server-based deployment services.
-* [TeamCity](http://www.jetbrains.com/teamcity/) - JetBrain's CI solution with a free version.
-* [Travis](https://travis-ci.org) - Hosted service often used for open-source projects.
+* [Bamboo](https://www.atlassian.com/software/bamboo)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。
+* [CircleCI](https://circleci.com/)：提供托管服务，可以免费试用。
+* [Codeship](https://www.codeship.io/features)：提供托管服务，提供有限的免费模式。
+* [fabric8](http://fabric8.io/)：容器集成平台。
+* [Go](http://www.thoughtworks.com/products/go-continuous-delivery)：ThoughtWork开源解决方案。
+* [Jenkins](http://jenkins-ci.org/)：支持基于服务器的部署服务。
+* [TeamCity](http://www.jetbrains.com/teamcity/)：JetBrain的持续集成解决方案，有免费版。
+* [Travis](https://travis-ci.org)：通常用作开源项目的托管服务。
 
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
