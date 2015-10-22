@@ -236,47 +236,47 @@ Java资源大全中文版。以awesome Java为基石，持续更新最新的Java
 
 
 <h3 id="document-processing">文档处理工具</h3>
-*Libraries that assist with processing office document formats.*
+*处理Office文档的开发库。*
 
-* [Apache POI](http://poi.apache.org/)：Supports OOXML (XLSX, DOCX, PPTX) as well as OLE2 (XLS, DOC or PPT).
-* [documents4j](http://documents4j.com)：API for document format conversion using third-party converters such as MS Word.
-* [jOpenDocument](http://www.jopendocument.org/)：Processes the OpenDocument format.
+* [Apache POI](http://poi.apache.org/)：支持OOXML规范（XLSX、DOCX、PPTX）以及OLE2规范（XLS、DOC、PPT）。
+* [documents4j](http://documents4j.com)：使用第三方转换器进行文档格式转换，转成类似MS Word这样的格式。
+* [jOpenDocument](http://www.jopendocument.org/)：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。
 
 <h3 id="functional-programming">函数式编程</h3>
-*Libraries that facilitate functional programming.*
+*函数式编程支持库。*
 
-* [Cyclops](https://github.com/aol/cyclops)：Monad and stream utilities, comprehensions, pattern matching, trampolines and much more.
-* [Fugue](https://bitbucket.org/atlassian/fugue)：Functional extensions to Guava.
-* [Functional Java](http://www.functionaljava.org)：Implements numerous basic and advanced programming abstractions that assist composition-oriented development.
-* [Javaslang](http://javaslang.com)：Functional component library that provides persistent data types and functional control structures.
-* [jOOλ](https://github.com/jOOQ/jOOL)：Extension to Java 8 which aims to fix gaps in lambda, providing numerous missing types and a rich set of sequential Stream API additions.
+* [Cyclops](https://github.com/aol/cyclops)：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。
+* [Fugue](https://bitbucket.org/atlassian/fugue)：Guava的函数式编程扩展。
+* [Functional Java](http://www.functionaljava.org)：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。
+* [Javaslang](http://javaslang.com)：一个函数式组件库，提供持久化数据类型和函数式控制结构。
+* [jOOλ](https://github.com/jOOQ/jOOL)：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。
 
 <h3 id="game-development">游戏开发</h3>
-*Frameworks that support the development of games.*
+*游戏开发框架。*
 
-* [jMonkeyEngine](http://jmonkeyengine.org/)：Game engine for modern 3D development.
-* [libGDX](http://libgdx.badlogicgames.com/)：All-round cross-platform, high-level framework.
-* [LWJGL](http://lwjgl.org/)：Robust framework that abstracts libraries like OpenGL/CL/AL.
+* [jMonkeyEngine](http://jmonkeyengine.org/)：现代3D游戏开发引擎。
+* [libGDX](http://libgdx.badlogicgames.com/)：全面的跨平台高级框架。
+* [LWJGL](http://lwjgl.org/)：对OpenGL/CL/AL等技术进行抽象的健壮框架。
 
 
 <h3 id="gui">GUI</h3>
-*Libraries to create modern graphical user interfaces.*
+*现代图形化用户界面开发库。*
 
-* [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)：The successor of Swing.
-* [Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html)：Visual layout tool for JavaFX applications.
+* [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)：Swing的后继者。
+* [Scene Builder](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-info-2157684.html)：开发JavaFX应用的可视化布局工具。
 
 <h3 id="high-performance">高性能计算</h3>
-*Everything about high performance computation, from collections to specific libraries.*
+*涵盖了从集合到特定开发库的高性能计算相关工具。*
 
-* [Agrona](https://github.com/real-logic/Agrona)：Data structures and utility methods that are common in high-performance applications.
-* [Disruptor](http://lmax-exchange.github.io/disruptor/)：Inter-thread messaging library.
-* [fastutil](http://fastutil.di.unimi.it/)：Fast and compact type-specific collections.
-* [GS Collections](https://github.com/goldmansachs/gs-collections)：Collection framework inspired by Smalltalk.
-* [HPPC](http://labs.carrotsearch.com/hppc.html)：Primitive collections.
-* [Javolution](http://javolution.org/)：Library for real-time and embedded systems.
-* [JCTools](https://github.com/JCTools/JCTools)：Concurrency tools currently missing from the JDK.
-* [Koloboke](https://github.com/OpenHFT/Koloboke)：Hash sets and hash maps.
-* [Trove](http://trove.starlight-systems.com/)：Primitive collections.
+* [Agrona](https://github.com/real-logic/Agrona)：高性能应用中常见的数据结构和工具方法。
+* [Disruptor](http://lmax-exchange.github.io/disruptor/)：线程间消息传递开发库。
+* [fastutil](http://fastutil.di.unimi.it/)：快速紧凑的特定类型集合（Collection）。
+* [GS Collections](https://github.com/goldmansachs/gs-collections)：受Smalltalk启发的集合框架。
+* [HPPC](http://labs.carrotsearch.com/hppc.html)：基础类型集合。
+* [Javolution](http://javolution.org/)：实时和嵌入式系统的开发库。
+* [JCTools](https://github.com/JCTools/JCTools)：JDK中缺失的并发工具。
+* [Koloboke](https://github.com/OpenHFT/Koloboke)：Hash set和hash map。
+* [Trove](http://trove.starlight-systems.com/)：基础类型集合。
 
 <h3 id="ide">IDE</h3>
 *Integrated development environments that try to simplify several aspects of development.*
