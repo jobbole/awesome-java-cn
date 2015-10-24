@@ -279,42 +279,42 @@ Java资源大全中文版。以awesome Java为基石，持续更新最新的Java
 * [Trove](http://trove.starlight-systems.com/)：基础类型集合。
 
 <h3 id="ide">IDE</h3>
-*Integrated development environments that try to simplify several aspects of development.*
+*简化开发的集成开发环境。*
 
-* [Eclipse](http://www.eclipse.org/)：Established, open-souce project with support for lots of plugins and languages.
-* [IntelliJ IDEA](http://www.jetbrains.com/idea/)：Supports a lot of JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
-* [NetBeans](https://netbeans.org/)：Provides integration for several Java SE and EE features from database access to HTML5.
+* [Eclipse](http://www.eclipse.org/)：老牌开源项目，支持多种插件和编程语言。
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/)：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。
+* [NetBeans](https://netbeans.org/)：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。
 
 <h3 id="imagery">图像处理</h3>
-*Libraries that assist with the creation, evaluation or manipulation of graphical images.*
+*创建、评价和操作图片的支持库。*
 
-* [Imgscalr](https://github.com/thebuzzmedia/imgscalr)：Simple and efficient hardware-accelerated image-scaling library implemented in pure Java 2D.
-* [Picasso](http://square.github.io/picasso/)：Image downloading and caching library for Android.
-* [Thumbnailator](https://github.com/coobird/thumbnailator)：Thumbnailator is a high-quality thumbnail generation library for Java.
-* [ZXing](https://github.com/zxing/zxing)：Multi-format 1D/2D barcode image processing library.
+* [Imgscalr](https://github.com/thebuzzmedia/imgscalr)：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。
+* [Picasso](http://square.github.io/picasso/)：安卓图片下载和图片缓存开发库。
+* [Thumbnailator](https://github.com/coobird/thumbnailator)：Thumbnailator是一个高质量Java缩略图开发库。
+* [ZXing](https://github.com/zxing/zxing)：支持多种格式的一维、二维条形码图片处理开发库。
 
 <h3 id="json">JSON</h3>
-*Libraries that simplify JSON processing.*
+*简化JSON处理的开发库。*
 
-* [Genson](http://owlike.github.io/genson)：Powerful and easy to use Java to JSON conversion library.
-* [Gson](https://github.com/google/gson)：Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
-* [Jackson](http://wiki.fasterxml.com/JacksonHome)：Similar to GSON but has performance gains if you need to instantiate the library more often.
-* [LoganSquare](https://github.com/bluelinelabs/LoganSquare)：JSON parsing and serializing library based on Jackson's streaming API. Outpeforms GSON & Jackson's library.
+* [Genson](http://owlike.github.io/genson)：强大且易于使用的Java到JSON转换开发库。
+* [Gson](https://github.com/google/gson)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。
+* [Jackson](http://wiki.fasterxml.com/JacksonHome)：与GSON类似，在频繁使用时性能更佳。
+* [LoganSquare](https://github.com/bluelinelabs/LoganSquare)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
-*Current implementations of the JVM/JDK.*
+*目前的JVM和JDK实现。*
 
-* [JDK 9](https://jdk9.java.net/)：Early access releases of JDK 9.
-* [OpenJDK](http://openjdk.java.net/)：Open-source implementation.
+* [JDK 9](https://jdk9.java.net/)：JDK 9的早期访问版本。
+* [OpenJDK](http://openjdk.java.net/)：JDK开源实现。
 
 <h3 id="languages">基于JVM的语言</h3>
-*Languages other than Java that can be used to write JVM applications.*
+*除Java外，可以用来编写JVM应用程序的编程语言。*
 
-* [Scala](http://www.scala-lang.org/)：Statically typed programming language that fuses the object - oriented model and functional programming ideas.
-* [Groovy](http://www.groovy-lang.org/)：Optionally typed and dynamic language, with static-typing and static compilation capabilities. Currently an incubating Apache project
-* [Clojure](http://clojure.org/)：Dynamically typed programming language that can be seen as a modern take on Lisp.
-* [Ceylon](http://ceylon-lang.org/)：Statically typed object-oriented language developed by RedHat.
-* [Kotlin](http://kotlinlang.org/)：JetBrain's statically typed programming language for the JVM, Android and the browser.
+* [Scala](http://www.scala-lang.org/)：融合了面向对象和函数式编程思想的静态类型编程语言。
+* [Groovy](http://www.groovy-lang.org/)：类型可选（Optionally typed）的动态语言，支持静态类型和静态编译。目前是一个Apache孵化器项目。
+* [Clojure](http://clojure.org/)：可看做现代版Lisp的动态类型语言。
+* [Ceylon](http://ceylon-lang.org/)：RedHat开发的面向对象静态类型编程语言。
+* [Kotlin](http://kotlinlang.org/)：JetBrain针对JVM、安卓和浏览器提供的静态类型编程语言。
 
 <h3 id="logging">日志</h3>
 *Libraries that log the behavior of an application.*
