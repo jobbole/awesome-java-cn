@@ -68,6 +68,7 @@ Java资源大全中文版。以awesome Java为基石，持续更新最新的Java
     - [有影响力的书](#influential-books)
     - [播客](#podcasts)
     - [微博、微信公众号](#weibo-weixin)
+    - [Twitter](#twitter)
     - [知名网站](#websites)
     - [博客](blogs)
 - [加入贡献](#contributing)
@@ -571,6 +572,30 @@ Java资源大全中文版。以awesome Java为基石，持续更新最新的Java
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * ImportNew：是最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。 
+
+<h3 id="twitter">Twitter</h3>
+* [Adam Bien](https://twitter.com/AdamBien/)：自由职业者、作家、JavaONE明星演讲者、顾问、Java Champion。
+* [Antonio Goncalves](https://twitter.com/agoncal/)：Java Champion、JUG Leader、Devoxx France、Java EE 6/7、JCP、作家。
+* [Arun Gupta](https://twitter.com/arungupta/)：Java Champion、JavaONE明星演讲者、JUG Leader、Devoxx4Kids成员、Red Hatter。
+* [Bruno Borges](https://twitter.com/brunoborges)：Oracle产品经理、Java Jock。
+* [Ed Burns](https://twitter.com/edburns)：Oracle技术团队顾问。
+* [Eugen Paraschiv](https://twitter.com/baeldung)：Spring安全课程作者。
+* [James Weaver](https://twitter.com/JavaFXpert)：Java、JavaFX、IoT开发者、作者和演讲者。
+* [Java EE](https://twitter.com/Java_EE/)：Java EE Twitter官方账号。
+* [Java Magazine](https://twitter.com/Oraclejavamag)：Java杂志官方账号。
+* [Java.net](https://twitter.com/javanetbuzz/)：Java.net官方账号。
+* [Java](https://twitter.com/java/)：Java Twitter官方账号。
+* [Javin Paul](https://twitter.com/javinpaul)：知名Java博客作者。
+* [Lukas Eder](https://twitter.com/lukaseder)：Data Geekery（jOOQ）创始人兼CEO。
+* [Mario Fusco](https://twitter.com/mariofusco)：RedHatter、JUG协调、活跃讲师和作者。
+* [Mark Reinhold](https://twitter.com/mreinhold)：Oracle首席架构师、Java平台开发组。
+* [Martijn Verburg](https://twitter.com/karianna)：London JUG co-leader、演讲者、作家、Java Champion等。
+* [OpenJDK](https://twitter.com/OpenJDK)：OpenJDK官方账号。
+* [Reza Rahman](https://twitter.com/reza_rahman)：Java EE、GlassFish、WebLogic传道者、作家、演讲者、开源黑客。
+* [Simon Maple](https://twitter.com/sjmaple)：Java Champion、virtualJUG创始人、LJC leader、RebelLabs作者。
+* [Stephen Colebourne](https://twitter.com/jodastephen)： Java Champion、演讲者。
+* [Tim Boudreau](https://twitter.com/kablosna)：作家、NetBeans大牛。
+* [Trisha Gee](https://twitter.com/trisha_gee)：Java Champion、演讲者。
 
 <h3 id="websites">知名网站</h3>
 *值得关注的Java技术站点。*
