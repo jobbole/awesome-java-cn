@@ -1,8 +1,8 @@
 # Java资源大全中文版
 
-Java资源大全中文版。以awesome Java为基石，持续更新最新的Java开发资源。
+Java资源大全中文版。以 [awesome Java](https://github.com/akullpp/awesome-java) 为基石，持续更新最新的Java开发资源。
 
-涵盖开发库、开发工具、网站、博客、微信、微博等，专注最新国外Java资源及优秀中文Java资源。由[伯乐在线](http://www.jobbole.com/)持续更新。
+涵盖开发库、开发工具、网站、博客、微信、微博等，专注最新国外Java资源及优秀中文Java资源。由**[伯乐在线](http://www.jobbole.com/)**持续更新。
 
 #### 如何参与本项目？
 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
