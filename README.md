@@ -88,7 +88,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [Twitter](#twitter)
     - [知名网站](#websites)
     - [博客](blogs)
-- [加入贡献](#contributing)
+
 
 <h2 id="ancients">古董级工具</h2>
 
@@ -640,10 +640,3 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
-
-<h3 id="contributing">加入贡献</h3>
-从目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-不过加入前，有几个小要求：
-+ 英文还不错，能读懂英文并用自己的话复述；
-+ 在用 Java；
-+ 如有兴趣，请加 QQ：1537482893。加 Q 时请注明「Java大全」
