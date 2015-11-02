@@ -1,18 +1,33 @@
 # Java资源大全中文版
 
-Java资源大全中文版。以 [awesome Java](https://github.com/akullpp/awesome-java) 为基石，持续更新最新的Java开发资源。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-java](https://github.com/akullpp/awesome-java) 就是 akullpp 发起维护的 Java 资源列表，内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等。伯乐在线已经把 awesome-java 资源列表翻成中文后发布于 [ImportNew](http://www.importnew.com/14429.html)。
 
-涵盖开发库、开发工具、网站、博客、微信、微博等，专注最新国外Java资源及优秀中文Java资源。由**[伯乐在线](http://www.jobbole.com/)**持续更新。
+Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
-#### 如何参与本项目？
+* * *
+
+### 我们要做什么？
+
+- 1）基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
+- 2）整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
+  - 《[PgCli：支持自动补全和语法高亮的 PostgreSQL 工具](http://hao.jobbole.com/pgcli-postgresql/)》
+  - 《[Wireshark：开源的网络数据包分析软件](http://hao.jobbole.com/wireshark/)》
+  - 《[tcpdump：运行在命令行下的嗅探工具](http://hao.jobbole.com/tcpdump/)》
+
+* * *
+
+### 如何参与本项目？
+
 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
-- 1. 英文还不错，能读懂英文并用自己的话复述；
-- 2. 在用 Java；
+
+* 1）英文还不错，能读懂英文并用自己的话复述；
+* 2）在用 Java；
 
 如有兴趣，请加 QQ：1537482893。加 Q 时请注明「Java大全」
-****
+
+* * *
 - [Java资源大全中文版](#awesome-java-cn)
     - [古董级工具](#ancients)
     - [构建工具](#build)
