@@ -589,6 +589,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * ImportNew：是最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。 
+![](http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg)
+* ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
 
 <h3 id="twitter">Twitter</h3>
 * [Adam Bien](https://twitter.com/AdamBien/)：自由职业者、作家、JavaONE明星演讲者、顾问、Java Champion。
