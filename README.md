@@ -8,8 +8,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 我们要做什么？
 
-- 1）基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
-- 2）整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
+- 基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
   - 《[PgCli：支持自动补全和语法高亮的 PostgreSQL 工具](http://hao.jobbole.com/pgcli-postgresql/)》
   - 《[Wireshark：开源的网络数据包分析软件](http://hao.jobbole.com/wireshark/)》
   - 《[tcpdump：运行在命令行下的嗅探工具](http://hao.jobbole.com/tcpdump/)》
@@ -22,8 +22,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 不过加入前，有几个小要求：
 
-* 1）英文还不错，能读懂英文并用自己的话复述；
-* 2）在用 Java；
+* 英文还不错，能读懂英文并用自己的话复述；
+* 在用 Java；
 
 如有兴趣，请加 QQ：1537482893。加 Q 时请注明「Java大全」
 
