@@ -25,16 +25,17 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 英文还不错，能读懂英文并用自己的话复述；
 * 在用 Java；
 
-如有兴趣，请加 QQ：1537482893。加 Q 时请注明「Java大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「Java大全」
 
 * * *
 
-### 本项目的贡献者
+### 本项目的参与者
 
-[tangyouhua](https://github.com/tangyouhua)
+- 维护者：[tangyouhua](https://github.com/tangyouhua)
+
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、You
 
 注：名单不分排名，不定期补充更新
-
 
 * * *
 ### 目录
