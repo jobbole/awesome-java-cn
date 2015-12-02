@@ -10,9 +10,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 基于 awesome-java 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[PgCli：支持自动补全和语法高亮的 PostgreSQL 工具](http://hao.jobbole.com/pgcli-postgresql/)》
-  - 《[Wireshark：开源的网络数据包分析软件](http://hao.jobbole.com/wireshark/)》
-  - 《[tcpdump：运行在命令行下的嗅探工具](http://hao.jobbole.com/tcpdump/)》
+  - 《[OWNER：Java配置文件解决方案](http://hao.jobbole.com/owner/)》
+  - 《[Spring Boot：简化Spring应用初始搭建以及开发过程](http://hao.jobbole.com/spring-boot/)》
+  - 《[SonarQube：开源的代码质量管理工具](http://hao.jobbole.com/sonarqube/)》
 
 * * *
 
