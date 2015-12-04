@@ -189,7 +189,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Phoenix：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
 * Crate：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
 * Flyway：简单的数据库迁移工具。[官网](http://flywaydb.org/)
-* H2：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
+* [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
 * HikariCP：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
 * JDBI：便捷的JDBC抽象。[官网](http://jdbi.org/)
 * jOOQ：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
@@ -292,7 +292,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *现代图形化用户界面开发库。*
 
 * JavaFX：Swing的后继者。[官网](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
-* [Scene Builder：开发JavaFX应用的可视化布局工具。[官网](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-ino-2157684.html)
+* Scene Builder：开发JavaFX应用的可视化布局工具。[官网](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-ino-2157684.html)
 
 <h3 id="high-performance">高性能计算</h3>
 *涵盖了从集合到特定开发库的高性能计算相关工具。*
@@ -310,7 +310,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="ide">IDE</h3>
 *简化开发的集成开发环境。*
 
-* Eclipse：老牌开源项目，支持多种插件和编程语言。[官网](http://www.eclipse.org/)
+* [Eclipse](http://hao.jobbole.com/eclipse/)：老牌开源项目，支持多种插件和编程语言。[官网](http://www.eclipse.org/)
 * IntelliJ IDEA：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。[官网](http://www.jetbrains.com/idea/)
 * NetBeans：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
 * [Scala IDE](http://hao.jobbole.com/scala-ide/)：一款基于Eclipse开源平台打造的Scala集成开发环境。[官网](http://scala-ide.org/)
@@ -350,7 +350,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="logging">日志</h3>
 *记录应用程序行为日志的开发库。*
 
-* Apache Log4j 2：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
+* [Apache Log4j 2](http://hao.jobbole.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
 * kibana：分析及可视化日志文件。[官网](http://www.elasticsearch.org/overview/kibana/)
 * Logback：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
 * logstash：日志文件管理工具。[官网](http://logstash.net/)
@@ -410,7 +410,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来专门处理文本的函数库。*
 
 * Apache OpenNLP：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
-* [CoreNLP：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
+* CoreNLP：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
 * LingPipe：一组可以处理各种任务的工具集，支持POS标签、情感分析等。[官网](http://alias-i.com/lingpipe/)
 * Mallet：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
 
@@ -428,7 +428,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Ebean：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
 * EclipseLink：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
-* Hibernate：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
+* [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * OrmLite：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
 
@@ -516,8 +516,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="template-engine">模板引擎</h3>
 *在模板中替换表达式的工具。*
 
-* Apache Velocity：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
-* FreeMarker：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
+* [Apache Velocity](http://hao.jobbole.com/velocity/)：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
+* [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
 * Handlebars.java：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
 * Thymeleaf：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
 
@@ -555,7 +555,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JADE](http://hao.jobbole.com/jade/)：构建、调试多租户系统的框架和环境。[官网](http://jade.tilab.com/)
 * javatuples：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
 * JCommander：命令行参数解析器。[官网](http://jcommander.org/)
-* Protégé：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
+* [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
 
 <h3 id="web-crawling">网络爬虫</h3>
 *用于分析网站内容的函数库。*
@@ -641,7 +641,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Android Arsenal](https://android-arsenal.com)
 * [Google Java Style](http://hao.jobbole.com/google-java-style/)：[官网](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-* [InfoQ](http://www.infoq.com/)
+* [InfoQ](http://hao.jobbole.com/infoq/)：[官网](http://www.infoq.com/)
 * [Java Code Geeks](http://www.javacodegeeks.com/)
 * [Java, SQL, and jOOQ](http://blog.jooq.org/)
 * [Java.net](http://java.net/)
@@ -651,8 +651,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [RebelLabs](http://zeroturnaround.com/rebellabs/)
 * [The Java Specialist' Newsletter](http://hao.jobbole.com/javaspecialists/)：[官网](http://www.javaspecialists.eu/archive/archive.jsp)
 * [The Takipi Blog](http://blog.takipi.com/)
-* [TheServerSide.com](http://www.theserverside.com/)
+* [TheServerSide.com](http://hao.jobbole.com/theserverside/)：服务器编程交流平台是一个老牌的IT信息网站，关注服务器端编程的，以Java和.Net周边信息为主。[官网](http://www.theserverside.com/)
 * [Thoughts On Java](http://www.thoughts-on-java.org/)
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
+* [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
