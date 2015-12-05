@@ -214,7 +214,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
-* Guice：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
+* [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
 * HK2：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
 <h3 id="development">开发流程增强工具</h3>
@@ -341,7 +341,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *除Java外，可以用来编写JVM应用程序的编程语言。*
 
 * Scala：融合了面向对象和函数式编程思想的静态类型编程语言。[官网](http://www.scala-lang.org/)
-* Groovy：类型可选（Optionally typed）的动态语言，支持静态类型和静态编译。目前是一个Apache孵化器项目。[官网](http://www.groovy-lang.org/)
+* [Groovy](http://hao.jobbole.com/groovy/)：类型可选（Optionally typed）的动态语言，支持静态类型和静态编译。目前是一个Apache孵化器项目。[官网](http://www.groovy-lang.org/)
 * Clojure：可看做现代版Lisp的动态类型语言。[官网](http://clojure.org/)
 * Ceylon：RedHat开发的面向对象静态类型编程语言。[官网](http://ceylon-lang.org/)
 * Kotlin：JetBrain针对JVM、安卓和浏览器提供的静态类型编程语言。[官网](http://kotlinlang.org/)
@@ -560,7 +560,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="web-crawling">网络爬虫</h3>
 *用于分析网站内容的函数库。*
 
-* Apache Nutch：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
+* [Apache Nutch](http://hao.jobbole.com/nutch/)：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
 * [Crawler4j](http://hao.jobbole.com/crawler4j/)：简单的轻量级网络爬虫。[官网](https://github.com/yasserg/crawler4j)
 * [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](http://jsoup.org/)
 
