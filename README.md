@@ -470,6 +470,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Retrofit](http://square.github.io/retrofit/)：类型安全的REST客户端。
 * [Spark](http://www.sparkjava.com/)：受到Sinatra启发的Java REST框架。
 * [Swagger](https://helloreverb.com/developers/swagger)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。
+* [Blade](https://github.com/biezhi/blade)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。
 
 <h3 id="science">科学计算与分析</h3>
 *用于科学计算和分析的函数库。*
