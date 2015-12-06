@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -328,7 +328,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Genson：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
 * [Gson](http://hao.jobbole.com/gson/)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
-* Jackson：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
+* [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
 * LoganSquare：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoanSquare)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
@@ -373,7 +373,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
 * Aeron：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
-* Apache ActiveMQ：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
+* [Apache ActiveMQ](http://hao.jobbole.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
 * Apache Camel：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
 * Apache Kafka：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
 * Hermes：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
@@ -483,7 +483,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="search">搜索引擎</h3>
 *文档索引引擎，用于搜索和分析。*
 
-* Apache Solr：一个完全的企业搜索引擎。为高吞吐量通信进行了优化。[官网](http://lucene.apache.org/solr/)
+* [Apache Solr](http://hao.jobbole.com/solr/)：一个完全的企业搜索引擎。为高吞吐量通信进行了优化。[官网](http://lucene.apache.org/solr/)
 * Elasticsearch：一个分布式、支持多租户（multitenant）全文本搜索引擎。提供了RESTful Web接口和无schema的JSON文档。[官网](http://www.elsticsearch.org/)
 
 <h3 id="security">安全</h3>
