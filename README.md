@@ -578,6 +578,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Spring Boot](http://projects.spring.io/spring-boot/)：微框架，简化了Spring新程序的开发过程。
 * [Spring](http://projects.spring.io/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。
 * [Vaadin](https://vaadin.com/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。
+* [Blade](https://github.com/biezhi/blade)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
