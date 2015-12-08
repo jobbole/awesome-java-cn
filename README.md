@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -321,7 +321,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Imgscalr](http://hao.jobbole.com/imgscalr/)：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。[官网](https://github.com/thebuzzmedia/imgscalr)
 * Picasso：安卓图片下载和图片缓存开发库。[官网](http://square.github.io/picasso/)
 * Thumbnailator：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator)
-* ZXing：支持多种格式的一维、二维条形码图片处理开发库。[官网](https://github.com/zxing/zxing)
+* [ZXing](http://hao.jobbole.com/zxing/)：支持多种格式的一维、二维条形码图片处理开发库。[官网](https://github.com/zxing/zxing)
 * im4java: 基于ImageMagick或GraphicsMagick命令行的图片处理开发库，基本上ImageMagick能够支持的图片格式和处理方式都能够处理。[官网](http://im4java.sourceforge.net/)
 
 <h3 id="json">JSON</h3>
@@ -650,8 +650,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Java, SQL, and jOOQ](http://blog.jooq.org/)
 * [Java.net](http://java.net/)
 * [Javalobby](http://java.dzone.com/)
-* [JavaWorld](http://www.javaworld.com/)
-* [JAXenter](http://jaxenter.com/)
+* [JavaWorld](http://hao.jobbole.com/javaworld/)：[官网](http://www.javaworld.com/)
+* [JAXenter](http://hao.jobbole.com/jaxenter/)：[官网](http://jaxenter.com/)
 * [RebelLabs](http://zeroturnaround.com/rebellabs/)
 * [The Java Specialist' Newsletter](http://hao.jobbole.com/javaspecialists/)：[官网](http://www.javaspecialists.eu/archive/archive.jsp)
 * [The Takipi Blog](http://blog.takipi.com/)
