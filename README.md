@@ -377,7 +377,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Aeron：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
 * [Apache ActiveMQ](http://hao.jobbole.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
 * Apache Camel：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
-* Apache Kafka：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
+* [Apache Kafka](http://hao.jobbole.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
 * Hermes：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
 * JeroMQ：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
@@ -457,7 +457,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="reactive-libraries">响应式开发库</h3>
 *用来开发响应式应用程序的开发库。*
 
-* Reactive Streams：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
+* [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
 * Reactor：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
 * RxJava：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/Netflix/RxJava)
 
@@ -528,7 +528,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *测试内容从对象到接口，涵盖性能测试和基准测试工具。*
 
 * [Apache JMeter](http://hao.jobbole.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
-* Arquillian：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
+* [Arquillian](http://hao.jobbole.com/arquillian/)：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
 * AssertJ：支持流式断言提高测试的可读性。[官网](http://joel-costigliola.github.io/assertj/)
 * Awaitility：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
 * [Cucumber](http://hao.jobbole.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm)
