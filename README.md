@@ -529,7 +529,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache JMeter](http://hao.jobbole.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
 * [Arquillian](http://hao.jobbole.com/arquillian/)：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
-* AssertJ：支持流式断言提高测试的可读性。[官网](http://joel-costigliola.github.io/assertj/)
+* [AssertJ](http://hao.jobbole.com/assertj/)：支持流式断言提高测试的可读性。[官网](http://joel-costigliola.github.io/assertj/)
 * Awaitility：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
 * [Cucumber](http://hao.jobbole.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm)
 * Gatling：设计为易于使用、可维护的和高性能负载测试工具。[官网](http://gatling.io/)
