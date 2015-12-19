@@ -236,7 +236,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来编写分布式容错应用的开发库和框架。*
 
 * [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)
-* Apache Storm：实时计算系统。[官网](http://storm.incubator.apache.org/)
+* [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.incubator.apache.org/)
 * Apache ZooKeeper：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
 * Hazelcast：高可扩展内存数据网格。[官网](http://hazelcast.org/)
 * Hystrix：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
@@ -466,7 +466,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来创建RESTful 服务的框架。*
 
 * Dropwizard：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
-* Feign：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
+* [Feign](http://hao.jobbole.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
 * RESTEasy：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
 * RestExpress：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
@@ -537,7 +537,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JMockit：用来模拟静态、final方法等。[官网](http://jmockit.org/)
 * [JUnit](http://hao.jobbole.com/junit/)：通用测试框架。[官网](http://junit.org/)
 * [Mockito](http://hao.jobbole.com/mockito/)：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。[官网](https://github.com/mockito/mockito)
-* PowerMock： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。[官网](https://github.com/jayway/poermock)
+* [PowerMock](http://hao.jobbole.com/powermock/)： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。[官网](https://github.com/jayway/powermock)
 * REST Assured：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
 * Selenide：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
 * [Selenium](http://hao.jobbole.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
