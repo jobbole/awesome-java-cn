@@ -181,7 +181,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
 
-* uniVocity-parsers：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-pasers)
+* uniVocity-parsers：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
 
 <h3 id="database">数据库</h3>
 *简化数据库交互的相关工具。*
