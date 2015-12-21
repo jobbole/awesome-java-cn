@@ -91,6 +91,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [通用工具库](#utility)
     - [网络爬虫](#web-crawling)
     - [Web框架](#web-frameworks)
+    - [业务流程管理套件](#Business-Process-Management)
 - [资源](#resources)
     - [社区](#communities)
     - [有影响力的书](#influential-books)
@@ -583,6 +584,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Spring](http://hao.jobbole.com/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。[官网](http://projects.spring.io/spring-framework/)
 * [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/)
 * Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+
+<h3 id="Business-Process-Management">业务流程管理套件</h3>
+*流程驱动的软件系统构建。*
+
+* jBPM：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
