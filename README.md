@@ -120,7 +120,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
 * Bazel：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
-* [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://www.gradle.org/)
+* [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
 *编程方式操作字节码的开发库。*
@@ -171,9 +171,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="continuous-integration">持续集成</h3>
 * Bamboo：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/sotware/bamboo)
 * CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
-* Codeship：提供托管服务，提供有限的免费模式。[官网](https://www.codeship.io/features)
+* Codeship：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
 * fabric8：容器集成平台。[官网](http://fabric8.io/)
-* Go：ThoughtWork开源解决方案。[官网](http://www.thoughtworks.com/products/go-continuous-delivery)
+* Go：ThoughtWork开源解决方案。[官网](https://www.thoughtworks.com/go/)
 * [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)
 * TeamCity：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
 * Travis：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
@@ -198,7 +198,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
-* Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](https://parquet.incubator.apache.org/)
+* Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
 * Protobuf：Google数据交换格式。[官网](https://github.com/google/protobuf)
 * SBE：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
 * Wire：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
@@ -210,7 +210,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Time4J：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
 
 <h3 id="dependency-injection">依赖注入</h3>
-*帮实现[依赖翻转范式的开发库。*[官网](http://en.wikipedia.org/wiki/Inversion_of_control)
+*帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
@@ -228,7 +228,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Immutables：类似Scala的条件类。[官网](http://immutables.github.io/)
 * JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster)
 * JRebel：无需重新部署，可以即时重新加载代码与配置的商业软件。[官网](http://zeroturnaround.com/software/jrebel/)
-* Lombok：减少冗余的代码生成器。[官网](http://projectlombok.org/)
+* Lombok：减少冗余的代码生成器。[官网](https://projectlombok.org/)
 * Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded)
 * vert.x：多语言事件驱动应用框架。[官网](http://vertx.io/)
 
@@ -236,7 +236,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来编写分布式容错应用的开发库和框架。*
 
 * [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)
-* [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.incubator.apache.org/)
+* [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.apache.org/)
 * Apache ZooKeeper：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
 * Hazelcast：高可扩展内存数据网格。[官网](http://hazelcast.org/)
 * Hystrix：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
@@ -284,8 +284,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *游戏开发框架。*
 
 * jMonkeyEngine：现代3D游戏开发引擎。[官网](http://jmonkeyengine.org/)
-* [libGDX](http://hao.jobbole.com/libgdx/)：全面的跨平台高级框架。[官网](http://libgdx.badlogicgames.com/)
-* LWJGL：对OpenGL/CL/AL等技术进行抽象的健壮框架。[官网](http://lwjgl.org/)
+* [libGDX](http://hao.jobbole.com/libgdx/)：全面的跨平台高级框架。[官网](https://libgdx.badlogicgames.com/)
+* LWJGL：对OpenGL/CL/AL等技术进行抽象的健壮框架。[官网](https://www.lwjgl.org/)
 
 
 <h3 id="gui">GUI</h3>
@@ -347,16 +347,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Clojure：可看做现代版Lisp的动态类型语言。[官网](http://clojure.org/)
 * Ceylon：RedHat开发的面向对象静态类型编程语言。[官网](http://ceylon-lang.org/)
 * Kotlin：JetBrain针对JVM、安卓和浏览器提供的静态类型编程语言。[官网](http://kotlinlang.org/)
-* [Xtend](http://hao.jobbole.com/xtend/)：一种静态编程语言，能够将其代码转换为简洁高效的Java代码，并基于JVM运行。[官网](http://www.eclipse.org/xtend)
+* [Xtend](http://hao.jobbole.com/xtend/)：一种静态编程语言，能够将其代码转换为简洁高效的Java代码，并基于JVM运行。[官网](http://www.eclipse.org/xtend/)
 
 <h3 id="logging">日志</h3>
 *记录应用程序行为日志的开发库。*
 
 * [Apache Log4j 2](http://hao.jobbole.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
-* kibana：分析及可视化日志文件。[官网](http://www.elasticsearch.org/overview/kibana/)
+* kibana：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
 * Logback：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
-* logstash：日志文件管理工具。[官网](http://logstash.net/)
-* Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](http://metrics.codahale.com/)
+* logstash：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
+* Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics)
 * [SLF4J](http://hao.jobbole.com/slf4j/)：日志抽象层，需要与具体的实现配合使用。[官网](http://www.slf4j.org/)
 
 <h3 id="machine-learning">机器学习</h3>
@@ -368,7 +368,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Spark：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
 * DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * Deeplearning4j：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
-* H2O：用作大数据统计的分析引擎。[官网](http://0xdata.com/)
+* H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
 * Weka：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
 
 <h3 id="messaging">消息传递</h3>
@@ -391,7 +391,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Lanterna：类似curses的简单console文本GUI函数库。[官网](https://code.google.com/p/lanterna/)
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
 * OpenRefine：用来处理混乱数据的工具，包括清理、转换、使用Web Service进行扩展并将其关联到数据库。[官网](http://openrefine.org/)
-* RoboVM：Java编写原生iOS应用。[官网](http://www.robovm.org/)
+* RoboVM：Java编写原生iOS应用。[官网](https://robovm.com/)
 
 <h3 id="monitoring">应用监控工具</h3>
 *监控生产环境中应用程序的工具。*
@@ -400,13 +400,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JavaMelody：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
 * Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
 * New Relic：性能监测商业工具。[官网](http://newrelic.com/)
-* SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](http://sematext.com/spm/)
+* SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](https://sematext.com/spm/)
 * Takipi：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
 
 <h3 id="native">原生开发库</h3>
 *用来进行特定平台开发的原生开发库。*
 
-* [JNA](http://hao.jobbole.com/jna/)：不使用JNI就可以使用原生开发库。此外，还为常见系统函数提供了接口。[官网](https://github.com/twall/jna)
+* [JNA](http://hao.jobbole.com/jna/)：不使用JNI就可以使用原生开发库。此外，还为常见系统函数提供了接口。[官网](https://github.com/java-native-access/jna)
 
 <h3 id="natural-language-processing">自然语言处理</h3>
 *用来专门处理文本的函数库。*
@@ -447,7 +447,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="performance-analysis">性能分析</h3>
 *性能分析、性能剖析及基准测试工具。*
 
-* jHiccup：提供平台中JVM抛锚的日志和记录。[官网](http://github.com/giltene/jHiccup)
+* jHiccup：提供平台中JVM抛锚的日志和记录。[官网](https://github.com/giltene/jHiccup)
 * JMH：JVM为基准测试工具。[官网](http://openjdk.java.net/projects/code-tools/jmh/)
 * JProfiler：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * LatencyUtils：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
@@ -459,7 +459,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
 * Reactor：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
-* RxJava：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/Netflix/RxJava)
+* RxJava：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
 
 
 <h3 id="rest-frameworks">REST框架</h3>
@@ -472,7 +472,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * RestExpress：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
 * RestX：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
 * Retrofit：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
-* Spark：受到Sinatra启发的Java REST框架。[官网](http://www.sparkjava.com/)
+* Spark：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
 * Swagger：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](https://helloreverb.com/developers/swgger)
 * Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
@@ -494,7 +494,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Shiro](http://hao.jobbole.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
 * Bouncy Castle，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
-* [Cryptomator](http://hao.jobbole.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](http://cryptomator.org/)
+* [Cryptomator](http://hao.jobbole.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
 * Keycloak：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
 * PicketLink：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
 
@@ -576,9 +576,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Grails](http://hao.jobbole.com/grails/)：Groovy框架，旨在提供一个高效开发环境，使用约定而非配置、没有XML并支持混入（mixin）。[官网](https://grails.org/)
 * [Ninja](http://hao.jobbole.com/ninja/)：Java全栈Web开发框架。非常稳固、快速和高效。[官网](http://www.ninjaframework.org/)
 * [Pippo](http://hao.jobbole.com/pippo/)：小型、高度模块化的类Sinatra框架。[官网](http://www.pippo.ro/)
-* [Play](http://hao.jobbole.com/play-framework/)：使用约定而非配置，支持代码热加载并在浏览器中显示错误。[官网](http://www.playframework.com/)
+* [Play](http://hao.jobbole.com/play-framework/)：使用约定而非配置，支持代码热加载并在浏览器中显示错误。[官网](https://www.playframework.com/)
 * [PrimeFaces](http://hao.jobbole.com/primefaces/)：JSF框架，提供免费和带支持的商业版本。包括若干前端组件。[官网](http://primefaces.org/)
-* [Ratpack](http://hao.jobbole.com/ratpack/)：一组Java开发函数库，用于构建快速、高效、可扩展且测试完备的HTTP应用程序。[官网](http://www.ratpack.io/)
+* [Ratpack](http://hao.jobbole.com/ratpack/)：一组Java开发函数库，用于构建快速、高效、可扩展且测试完备的HTTP应用程序。[官网](https://ratpack.io/)
 * [Spring Boot](http://hao.jobbole.com/spring-boot/)：微框架，简化了Spring新程序的开发过程。[官网](http://projects.spring.io/spring-boot/)
 * [Spring](http://hao.jobbole.com/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。[官网](http://projects.spring.io/spring-framework/)
 * [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/)
@@ -586,7 +586,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
-* r/java：Reddit的Java子社区。[官网](http://www.reddit.com/r/java)
+* r/java：Reddit的Java子社区。[官网](https://www.reddit.com/r/java)
 * stackoverflow：问答平台。[官网](http://stackoverflow.com/questions/tagged/java)
 * vJUG：虚拟Java用户组。[官网](http://virtualjug.com/)
 
@@ -651,7 +651,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Java.net](http://java.net/)
 * [Javalobby](http://java.dzone.com/)
 * [JavaWorld](http://hao.jobbole.com/javaworld/)：[官网](http://www.javaworld.com/)
-* [JAXenter](http://hao.jobbole.com/jaxenter/)：[官网](http://jaxenter.com/)
+* [JAXenter](http://hao.jobbole.com/jaxenter/)：[官网](https://jaxenter.com/)
 * [RebelLabs](http://zeroturnaround.com/rebellabs/)
 * [The Java Specialist' Newsletter](http://hao.jobbole.com/javaspecialists/)：[官网](http://www.javaspecialists.eu/archive/archive.jsp)
 * [The Takipi Blog](http://blog.takipi.com/)
