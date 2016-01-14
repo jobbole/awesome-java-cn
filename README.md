@@ -293,7 +293,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *现代图形化用户界面开发库。*
 
 * [JavaFX](http://hao.jobbole.com/javafx/)：Swing的后继者。[官网](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
-* Scene Builder：开发JavaFX应用的可视化布局工具。[官网](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-ino-2157684.html)
+* [Scene Builder](http://hao.jobbole.com/scene_builder/)：开发JavaFX应用的可视化布局工具。[官网](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-ino-2157684.html)
 
 <h3 id="high-performance">高性能计算</h3>
 *涵盖了从集合到特定开发库的高性能计算相关工具。*
