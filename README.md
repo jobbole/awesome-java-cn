@@ -120,7 +120,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *构建及应用依赖关系处理工具。*
 
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
-* Bazel：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
+* [Bazel](http://hao.jobbole.com/bazel/)：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
 * [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
