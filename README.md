@@ -421,7 +421,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *网络编程函数库。*
 
 * Async Http Client：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
-* Grizzly：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
+* [Grizzly](http://hao.jobbole.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
 * OkHttp：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
