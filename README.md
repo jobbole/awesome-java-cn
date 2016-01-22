@@ -544,7 +544,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Selenium](http://hao.jobbole.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
 * Spock：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
-* Truth：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
+* [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
 * Unitils：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
 * WireMock：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
