@@ -420,7 +420,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="networking">网络</h3>
 *网络编程函数库。*
 
-* Async Http Client：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
+* [Async Http Client](http://hao.jobbole.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
 * [Grizzly](http://hao.jobbole.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
 * OkHttp：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
@@ -540,7 +540,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Mockito](http://hao.jobbole.com/mockito/)：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。[官网](https://github.com/mockito/mockito)
 * [PowerMock](http://hao.jobbole.com/powermock/)： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。[官网](https://github.com/jayway/powermock)
 * [REST Assured](http://hao.jobbole.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
-* Selenide：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
+* [Selenide](http://hao.jobbole.com/selenide/)：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
 * [Selenium](http://hao.jobbole.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
 * Spock：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
