@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -158,7 +158,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="configuration">外部配置工具</h3>
 *支持外部配置的开发库。*
 
-* config：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
+* [config](http://hao.jobbole.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
 * [owner](http://hao.jobbole.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner)
 
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
@@ -545,7 +545,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Spock：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
 * [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
-* Unitils：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
+* [Unitils](http://hao.jobbole.com/unitils/)：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
 * WireMock：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
 <h3 id="utility">通用工具库</h3>
