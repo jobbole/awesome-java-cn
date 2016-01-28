@@ -513,8 +513,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Tomcat：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
 * [Apache TomEE](http://hao.jobbole.com/tomee/)：Tomcat加Java EE。[官网](http://tomee.apache.org/)
 * Jetty：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
-* WebSphere Liberty：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
-* WildFly：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
+* [WebSphere Liberty](http://hao.jobbole.com/websphere-liberty/)：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
+* [WildFly](http://hao.jobbole.com/wildfly/)：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
 
 
 <h3 id="template-engine">模板引擎</h3>
@@ -523,7 +523,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Velocity](http://hao.jobbole.com/velocity/)：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
 * [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
 * Handlebars.java：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
-* Thymeleaf：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
+* [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
 
 <h3 id="testing">测试</h3>
 *测试内容从对象到接口，涵盖性能测试和基准测试工具。*
@@ -542,7 +542,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [REST Assured](http://hao.jobbole.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
 * [Selenide](http://hao.jobbole.com/selenide/)：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
 * [Selenium](http://hao.jobbole.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
-* Spock：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
+* [Spock](http://hao.jobbole.com/spock/)：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
 * [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
 * [Unitils](http://hao.jobbole.com/unitils/)：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
