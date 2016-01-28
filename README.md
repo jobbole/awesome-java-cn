@@ -307,6 +307,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JCTools：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
 * Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
 * Trove：基础类型集合。[官网](http://trove.starlight-systems.com/)
+* High-scale-bli:Cliff Click 个人开发的高性能并发库[官网](https://github.com/outofmemoryerror/high-scale-lib)
 
 <h3 id="ide">IDE</h3>
 *简化开发的集成开发环境。*
