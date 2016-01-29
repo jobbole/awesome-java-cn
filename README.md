@@ -503,9 +503,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来高效处理序列化的函数库。*
 
 * FlatBuffers：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
-* Kryo：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
-* FST：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
-* MessagePack：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
+* [Kryo](http://hao.jobbole.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
+* [FST](http://hao.jobbole.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
+* [MessagePack](http://hao.jobbole.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
 
 <h3 id="server">应用服务器</h3>
 *用来部署应用程序的服务器。*
