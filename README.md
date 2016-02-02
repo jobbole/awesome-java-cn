@@ -522,7 +522,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Velocity](http://hao.jobbole.com/velocity/)：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
 * [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
-* Handlebars.java：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
+* [Handlebars.java](http://hao.jobbole.com/handlebars-java/)：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
 * [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
 
 <h3 id="testing">测试</h3>
