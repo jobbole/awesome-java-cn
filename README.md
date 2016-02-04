@@ -482,7 +482,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用于科学计算和分析的函数库。*
 
 * [DataMelt](http://hao.jobbole.com/datamelt/)：用于科学计算、数据分析及数据可视化的开发环境。[官网](http://jwork.org/dmelt/)
-* JGraphT：支持数学图论对象和算法的图形库。[官网](https://github.com/jgrapht/jgrapht)
+* [JGraphT](http://hao.jobbole.com/jgrapht/)：支持数学图论对象和算法的图形库。[官网](https://github.com/jgrapht/jgrapht)
 * JScience：用来进行科学测量和单位的一组类。[官网](http://jscience.org/)
 
 <h3 id="search">搜索引擎</h3>
