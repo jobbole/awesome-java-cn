@@ -495,7 +495,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用于处理安全、认证、授权或会话管理的函数库。*
 
 * [Apache Shiro](http://hao.jobbole.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
-* Bouncy Castle，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
+* [Bouncy Castle](http://hao.jobbole.com/bouncy-castle/)，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
 * [Cryptomator](http://hao.jobbole.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
 * Keycloak：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
 * PicketLink：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
