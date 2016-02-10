@@ -471,7 +471,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Feign](http://hao.jobbole.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
 * RESTEasy：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
-* RestExpress：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
+* [RestExpress](http://hao.jobbole.com/restexpress/)：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
 * RestX：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
 * Retrofit：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
 * Spark：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
