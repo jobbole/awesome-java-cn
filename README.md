@@ -474,7 +474,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [RestExpress](http://hao.jobbole.com/restexpress/)：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
 * [RestX](http://hao.jobbole.com/restx/)：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
 * [Retrofit](http://hao.jobbole.com/retrofit/)：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
-* Spark：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
+* [Spark](http://hao.jobbole.com/sparkjava/)：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
 * [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
 * Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
