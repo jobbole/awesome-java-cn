@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -120,7 +120,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *构建及应用依赖关系处理工具。*
 
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
-* Bazel：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
+* [Bazel](http://hao.jobbole.com/bazel/)：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
 * [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
@@ -158,7 +158,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="configuration">外部配置工具</h3>
 *支持外部配置的开发库。*
 
-* config：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
+* [config](http://hao.jobbole.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
 * [owner](http://hao.jobbole.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner)
 
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
@@ -292,8 +292,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="gui">GUI</h3>
 *现代图形化用户界面开发库。*
 
-* JavaFX：Swing的后继者。[官网](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
-* Scene Builder：开发JavaFX应用的可视化布局工具。[官网](http://www.oracle.com/technetwork/java/javase/downloads/javafxscenebuilder-ino-2157684.html)
+* [JavaFX](http://hao.jobbole.com/javafx/)：Swing的后继者。[官网](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
+* [Scene Builder](http://hao.jobbole.com/scene_builder/)：开发JavaFX应用的可视化布局工具。[官网](http://docs.oracle.com/javase/8/scene-builder-2/get-started-tutorial/overview.htm#JSBGS164)
 
 <h3 id="high-performance">高性能计算</h3>
 *涵盖了从集合到特定开发库的高性能计算相关工具。*
@@ -307,13 +307,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JCTools：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
 * Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
 * Trove：基础类型集合。[官网](http://trove.starlight-systems.com/)
+* High-scale-bli:Cliff Click 个人开发的高性能并发库[官网](https://github.com/stephenc/high-scale-lib)
 
 <h3 id="ide">IDE</h3>
 *简化开发的集成开发环境。*
 
 * [Eclipse](http://hao.jobbole.com/eclipse/)：老牌开源项目，支持多种插件和编程语言。[官网](http://www.eclipse.org/)
 * [IntelliJ IDEA](http://hao.jobbole.com/intellij-idea/)：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。[官网](http://www.jetbrains.com/idea/)
-* NetBeans：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
+* [NetBeans](http://hao.jobbole.com/netbeans/)：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
 * [Scala IDE](http://hao.jobbole.com/scala-ide/)：一款基于Eclipse开源平台打造的Scala集成开发环境。[官网](http://scala-ide.org/)
 
 <h3 id="imagery">图像处理</h3>
@@ -328,7 +329,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="json">JSON</h3>
 *简化JSON处理的开发库。*
 
-* Genson：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
+* [Genson](http://hao.jobbole.com/genson/)：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
 * [Gson](http://hao.jobbole.com/gson/)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
 * LoganSquare：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoanSquare)
@@ -413,15 +414,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来专门处理文本的函数库。*
 
 * Apache OpenNLP：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
-* CoreNLP：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
+* [CoreNLP](http://hao.jobbole.com/stanford_corenlp/)：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
 * LingPipe：一组可以处理各种任务的工具集，支持POS标签、情感分析等。[官网](http://alias-i.com/lingpipe/)
 * Mallet：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
 
 <h3 id="networking">网络</h3>
 *网络编程函数库。*
 
-* Async Http Client：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
-* Grizzly：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
+* [Async Http Client](http://hao.jobbole.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
+* [Grizzly](http://hao.jobbole.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
 * OkHttp：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
@@ -429,16 +430,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="orm">ORM</h3>
 *处理对象持久化的API。*
 
-* Ebean：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
+* [Ebean](http://hao.jobbole.com/ebean/)：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
 * EclipseLink：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
-* OrmLite：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
+* [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
 
 <h3 id="pdf">PDF</h3>
 *用来帮助创建PDF文件的资源。*
 
-* Apache FOP：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
+* [Apache FOP](http://hao.jobbole.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
 * Apache PDFBox：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
 * DynamicReports：JasperReports的精简版。[官网](http://dynamicreports.org/)
 * flyingsaucer：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
@@ -470,19 +471,19 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Feign](http://hao.jobbole.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
 * RESTEasy：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
-* RestExpress：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
-* RestX：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
-* Retrofit：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
-* Spark：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
-* Swagger：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](https://helloreverb.com/developers/swgger)
-* Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [RestExpress](http://hao.jobbole.com/restexpress/)：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
+* [RestX](http://hao.jobbole.com/restx/)：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
+* [Retrofit](http://hao.jobbole.com/retrofit/)：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
+* [Spark](http://hao.jobbole.com/sparkjava/)：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
+* [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
+* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
 <h3 id="science">科学计算与分析</h3>
 *用于科学计算和分析的函数库。*
 
-* DataMelt：用于科学计算、数据分析及数据可视化的开发环境。[官网](http://jwork.org/dmelt/)
-* JGraphT：支持数学图论对象和算法的图形库。[官网](https://github.com/jgrapht/jgrapht)
-* JScience：用来进行科学测量和单位的一组类。[官网](http://jscience.org/)
+* [DataMelt](http://hao.jobbole.com/datamelt/)：用于科学计算、数据分析及数据可视化的开发环境。[官网](http://jwork.org/dmelt/)
+* [JGraphT](http://hao.jobbole.com/jgrapht/)：支持数学图论对象和算法的图形库。[官网](https://github.com/jgrapht/jgrapht)
+* [JScience](http://hao.jobbole.com/jscience/)：用来进行科学测量和单位的一组类。[官网](http://jscience.org/)
 
 <h3 id="search">搜索引擎</h3>
 *文档索引引擎，用于搜索和分析。*
@@ -494,27 +495,27 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用于处理安全、认证、授权或会话管理的函数库。*
 
 * [Apache Shiro](http://hao.jobbole.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
-* Bouncy Castle，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
+* [Bouncy Castle](http://hao.jobbole.com/bouncy-castle/)，涵盖了从基础的帮助函数到PGP/SMIME操作。[官网](https://www.bouncycastle.org/java.html)：多途加密开发库。支持JCA提供者（JCA provider)
 * [Cryptomator](http://hao.jobbole.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
-* Keycloak：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
-* PicketLink：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
+* [Keycloak](http://hao.jobbole.com/keycloak/)：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
+* [PicketLink](http://hao.jobbole.com/picketlink/)：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
 
 <h3 id="serialization">序列化</h3>
 *用来高效处理序列化的函数库。*
 
 * FlatBuffers：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
-* Kryo：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
-* FST：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
-* MessagePack：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
+* [Kryo](http://hao.jobbole.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
+* [FST](http://hao.jobbole.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
+* [MessagePack](http://hao.jobbole.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
 
 <h3 id="server">应用服务器</h3>
 *用来部署应用程序的服务器。*
 
 * Apache Tomcat：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
-* Apache TomEE：Tomcat加Java EE。[官网](http://tomee.apache.org/)
+* [Apache TomEE](http://hao.jobbole.com/tomee/)：Tomcat加Java EE。[官网](http://tomee.apache.org/)
 * Jetty：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
-* WebSphere Liberty：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
-* WildFly：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
+* [WebSphere Liberty](http://hao.jobbole.com/websphere-liberty/)：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
+* [WildFly](http://hao.jobbole.com/wildfly/)：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
 
 
 <h3 id="template-engine">模板引擎</h3>
@@ -522,8 +523,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Velocity](http://hao.jobbole.com/velocity/)：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
 * [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
-* Handlebars.java：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
-* Thymeleaf：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
+* [Handlebars.java](http://hao.jobbole.com/handlebars-java/)：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
+* [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
 
 <h3 id="testing">测试</h3>
 *测试内容从对象到接口，涵盖性能测试和基准测试工具。*
@@ -539,13 +540,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JUnit](http://hao.jobbole.com/junit/)：通用测试框架。[官网](http://junit.org/)
 * [Mockito](http://hao.jobbole.com/mockito/)：在自动化单元测试中创建测试对象，为TDD或BDD提供支持。[官网](https://github.com/mockito/mockito)
 * [PowerMock](http://hao.jobbole.com/powermock/)： 支持模拟静态方法、构造函数、final类和方法、私有方法以及移除静态初始化器的模拟工具。[官网](https://github.com/jayway/powermock)
-* REST Assured：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
-* Selenide：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
+* [REST Assured](http://hao.jobbole.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
+* [Selenide](http://hao.jobbole.com/selenide/)：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
 * [Selenium](http://hao.jobbole.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
-* Spock：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
+* [Spock](http://hao.jobbole.com/spock/)：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
-* Truth：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
-* Unitils：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
+* [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
+* [Unitils](http://hao.jobbole.com/unitils/)：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
 * WireMock：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
 <h3 id="utility">通用工具库</h3>
