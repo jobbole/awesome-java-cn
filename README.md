@@ -452,7 +452,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [jHiccup](http://hao.jobbole.com/jhiccup/)：提供平台中JVM暂停的日志和记录。[官网](https://github.com/giltene/jHiccup)
 * [JMH](http://hao.jobbole.com/jmh/)：JVM基准测试工具。[官网](http://openjdk.java.net/projects/code-tools/jmh/)
 * [JProfiler](http://hao.jobbole.com/jprofiler/)：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
-* LatencyUtils：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
+* [LatencyUtils](http://hao.jobbole.com/latencyutils/)：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
 * VisualVM：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
 * YourKit Java Profiler：商业分析器。[官网](https://www.yourkit.com/features/)
 
