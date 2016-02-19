@@ -454,7 +454,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JProfiler](http://hao.jobbole.com/jprofiler/)：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [LatencyUtils](http://hao.jobbole.com/latencyutils/)：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
 * VisualVM：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
-* YourKit Java Profiler：商业分析器。[官网](https://www.yourkit.com/features/)
+* [YourKit Java Profiler](http://hao.jobbole.com/yourkit-java-profiler/)：商业分析器。[官网](https://www.yourkit.com/features/)
 
 <h3 id="reactive-libraries">响应式开发库</h3>
 *用来开发响应式应用程序的开发库。*
