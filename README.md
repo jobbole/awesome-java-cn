@@ -547,7 +547,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
 * [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
 * [Unitils](http://hao.jobbole.com/unitils/)：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
-* WireMock：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
+* [WireMock](http://hao.jobbole.com/wiremock/)：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
 <h3 id="utility">通用工具库</h3>
 *通用工具类函数库。*
