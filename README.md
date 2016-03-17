@@ -440,10 +440,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来帮助创建PDF文件的资源。*
 
 * [Apache FOP](http://hao.jobbole.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
-* Apache PDFBox：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
+* [Apache PDFBox](http://hao.jobbole.com/apache-pdfbox/)：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
 * DynamicReports：JasperReports的精简版。[官网](http://dynamicreports.org/)
 * flyingsaucer：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
-* iText：一个易于使用的PDF函数库，用来编程创建PDF文件。注意，用于商业用途时需要许可证。[官网](http://itextpdf.com/)
+* [iText](http://hao.jobbole.com/itext/)：一个易于使用的PDF函数库，用来编程创建PDF文件。注意，用于商业用途时需要许可证。[官网](http://itextpdf.com/)
 * JasperReports：一个复杂的报表引擎。[官网](http://community.jaspersoft.com/project/jasperreports-library)
 
 <h3 id="performance-analysis">性能分析</h3>
@@ -453,7 +453,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JMH](http://hao.jobbole.com/jmh/)：JVM基准测试工具。[官网](http://openjdk.java.net/projects/code-tools/jmh/)
 * [JProfiler](http://hao.jobbole.com/jprofiler/)：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [LatencyUtils](http://hao.jobbole.com/latencyutils/)：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
-* VisualVM：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
+* [VisualVM](http://hao.jobbole.com/visualvm/)：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
 * [YourKit Java Profiler](http://hao.jobbole.com/yourkit-java-profiler/)：商业分析器。[官网](https://www.yourkit.com/features/)
 
 <h3 id="reactive-libraries">响应式开发库</h3>
@@ -558,7 +558,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Gephi](http://hao.jobbole.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/)
 * [Guava](http://hao.jobbole.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava)
 * [JADE](http://hao.jobbole.com/jade/)：构建、调试多租户系统的框架和环境。[官网](http://jade.tilab.com/)
-* javatuples：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
+* [javatuples](http://hao.jobbole.com/javatuples/)：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
 * JCommander：命令行参数解析器。[官网](http://jcommander.org/)
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
 
