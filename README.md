@@ -222,7 +222,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *从最基本的层面增强开发流程。*
 
 * [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)
-* AspectJ：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
+* [AspectJ](http://hao.jobbole.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
 * Auto：源代码生成器集合。[官网](https://github.com/google/auto)
 * DCEVM：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)
@@ -589,7 +589,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
 *流程驱动的软件系统构建。*
 
-* jBPM：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
+* [jBPM](http://hao.jobbole.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
