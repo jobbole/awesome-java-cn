@@ -442,7 +442,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache FOP](http://hao.jobbole.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
 * [Apache PDFBox](http://hao.jobbole.com/apache-pdfbox/)：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
 * DynamicReports：JasperReports的精简版。[官网](http://dynamicreports.org/)
-* flyingsaucer：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
+* [flyingsaucer](http://hao.jobbole.com/flyingsaucer/)：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
 * [iText](http://hao.jobbole.com/itext/)：一个易于使用的PDF函数库，用来编程创建PDF文件。注意，用于商业用途时需要许可证。[官网](http://itextpdf.com/)
 * JasperReports：一个复杂的报表引擎。[官网](http://community.jaspersoft.com/project/jasperreports-library)
 
