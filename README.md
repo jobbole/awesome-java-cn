@@ -394,6 +394,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
 * OpenRefine：用来处理混乱数据的工具，包括清理、转换、使用Web Service进行扩展并将其关联到数据库。[官网](http://openrefine.org/)
 * RoboVM：Java编写原生iOS应用。[官网](https://robovm.com/)
+* [Quartz](http://hao.jobbole.com/quartz/)：强大的任务调度库.[官网](http://www.quartz-scheduler.org/)
 
 <h3 id="monitoring">应用监控工具</h3>
 *监控生产环境中应用程序的工具。*
