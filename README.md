@@ -468,7 +468,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="rest-frameworks">REST框架</h3>
 *用来创建RESTful 服务的框架。*
 
-* Dropwizard：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
+* [Dropwizard](http://hao.jobbole.com/dropwizard/)：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
 * [Feign](http://hao.jobbole.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
 * [RESTEasy](http://hao.jobbole.com/resteasy/)：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
@@ -514,7 +514,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Tomcat](http://hao.jobbole.com/apache-tomcat/)：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
 * [Apache TomEE](http://hao.jobbole.com/tomee/)：Tomcat加Java EE。[官网](http://tomee.apache.org/)
-* Jetty：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
+* [Jetty](http://hao.jobbole.com/jetty/)：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
 * [WebSphere Liberty](http://hao.jobbole.com/websphere-liberty/)：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
 * [WildFly](http://hao.jobbole.com/wildfly/)：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
 
@@ -533,7 +533,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache JMeter](http://hao.jobbole.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
 * [Arquillian](http://hao.jobbole.com/arquillian/)：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
 * [AssertJ](http://hao.jobbole.com/assertj/)：支持流式断言提高测试的可读性。[官网](http://joel-costigliola.github.io/assertj/)
-* Awaitility：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
+* [Awaitility](http://hao.jobbole.com/awaitility/)：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
 * [Cucumber](http://hao.jobbole.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm)
 * Gatling：设计为易于使用、可维护的和高性能负载测试工具。[官网](http://gatling.io/)
 * [Hamcrest](http://hao.jobbole.com/hamcrest/)：可用来灵活创建意图（intent）表达式的匹配器。[官网](http://hamcrest.org/JavaHamcrest/)
