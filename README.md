@@ -425,7 +425,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Async Http Client](http://hao.jobbole.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
 * [Grizzly](http://hao.jobbole.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
-* OkHttp：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
+* [OkHttp](http://hao.jobbole.com/okhttp/)：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
 
 <h3 id="orm">ORM</h3>
@@ -504,7 +504,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="serialization">序列化</h3>
 *用来高效处理序列化的函数库。*
 
-* FlatBuffers：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
+* [FlatBuffers](http://hao.jobbole.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
 * [Kryo](http://hao.jobbole.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
 * [FST](http://hao.jobbole.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
 * [MessagePack](http://hao.jobbole.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
