@@ -341,7 +341,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Gson](http://hao.jobbole.com/gson/)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
 * LoganSquare：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoanSquare)
-* Fastjson: 一个Java语言编写的高性能功能完善的JSON库。它采用一种“假定有序快速匹配”的算法，把JSON Parse的性能提升到极致，是目前Java语言中最快的JSON库。Fastjson接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web输出、Android客户端等多种应用场景。[官网](https://github.com/Alibaba/fastjson)
+* [Fastjson](http://hao.jobbole.com/fastjson/): 一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
 *目前的JVM和JDK实现。*
