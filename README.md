@@ -324,6 +324,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [IntelliJ IDEA](http://hao.jobbole.com/intellij-idea/)：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。[官网](http://www.jetbrains.com/idea/)
 * [NetBeans](http://hao.jobbole.com/netbeans/)：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
 * [Scala IDE](http://hao.jobbole.com/scala-ide/)：一款基于Eclipse开源平台打造的Scala集成开发环境。[官网](http://scala-ide.org/)
+* [SpringSource Tool Suite（sts)](http://spring.io/tools/sts/all):一款基于Eclipse开源平台打造的spring应用开发环境。[官网](http://spring.io/tools/sts/)
 
 <h3 id="imagery">图像处理</h3>
 *创建、评价和操作图片的支持库。*
