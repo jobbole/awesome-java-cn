@@ -341,7 +341,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Genson](http://hao.jobbole.com/genson/)：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
 * [Gson](http://hao.jobbole.com/gson/)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
-* LoganSquare：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoanSquare)
+* [LoganSquare](http://hao.jobbole.com/logansquare/)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoganSquare)
 * [Fastjson](http://hao.jobbole.com/fastjson/): 一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
