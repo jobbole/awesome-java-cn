@@ -190,7 +190,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
 
-* uniVocity-parsers：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
+* [uniVocity-parsers](http://hao.jobbole.com/univocity-parsers/)：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
 
 <h3 id="database">数据库</h3>
 *简化数据库交互的相关工具。*
@@ -569,7 +569,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Guava](http://hao.jobbole.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava)
 * [JADE](http://hao.jobbole.com/jade/)：构建、调试多租户系统的框架和环境。[官网](http://jade.tilab.com/)
 * [javatuples](http://hao.jobbole.com/javatuples/)：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
-* JCommander：命令行参数解析器。[官网](http://jcommander.org/)
+* [JCommander](http://hao.jobbole.com/jcommander/)：命令行参数解析器。[官网](http://jcommander.org/)
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
 
 <h3 id="web-crawling">网络爬虫</h3>
