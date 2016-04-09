@@ -423,10 +423,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="natural-language-processing">自然语言处理</h3>
 *用来专门处理文本的函数库。*
 
-* Apache OpenNLP：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
+* [Apache OpenNLP](http://hao.jobbole.com/apache-opennlp/)：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
 * [CoreNLP](http://hao.jobbole.com/stanford_corenlp/)：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
 * [LingPipe](http://hao.jobbole.com/lingpipe/)：一组可以处理各种任务的工具集，支持POS标签、情感分析等。[官网](http://alias-i.com/lingpipe/)
-* Mallet：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
+* [Mallet](http://hao.jobbole.com/mallet/)：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
 
 <h3 id="networking">网络</h3>
 *网络编程函数库。*
