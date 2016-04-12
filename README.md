@@ -216,7 +216,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *处理时间和日期的开发库。*
 
 * [Joda-Time](hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
-* Time4J：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
+* [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
 
 <h3 id="dependency-injection">依赖注入</h3>
 *帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
@@ -385,7 +385,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="messaging">消息传递</h3>
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
-* Aeron：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
+* [Aeron](http://hao.jobbole.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
 * [Apache ActiveMQ](http://hao.jobbole.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
 * Apache Camel：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
 * [Apache Kafka](http://hao.jobbole.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
