@@ -224,7 +224,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
 * [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
-* HK2：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
+* [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
 <h3 id="development">开发流程增强工具</h3>
 *从最基本的层面增强开发流程。*
@@ -471,7 +471,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
 * Reactor：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
-* RxJava：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
+* [RxJava](http://hao.jobbole.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
 
 
 <h3 id="rest-frameworks">REST框架</h3>
