@@ -364,9 +364,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *记录应用程序行为日志的开发库。*
 
 * [Apache Log4j 2](http://hao.jobbole.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
-* kibana：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
+* [kibana](http://hao.jobbole.com/kibana/)：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
 * [Logback](http://hao.jobbole.com/logback/)：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
-* logstash：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
+* [logstash](http://hao.jobbole.com/logstash/)：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
 * Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics)
 * [SLF4J](http://hao.jobbole.com/slf4j/)：日志抽象层，需要与具体的实现配合使用。[官网](http://www.slf4j.org/)
 
@@ -441,7 +441,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *处理对象持久化的API。*
 
 * [Ebean](http://hao.jobbole.com/ebean/)：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
-* EclipseLink：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
+* [EclipseLink](http://hao.jobbole.com/eclipselink/)：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
@@ -470,7 +470,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来开发响应式应用程序的开发库。*
 
 * [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
-* Reactor：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
+* [Reactor](http://hao.jobbole.com/reactor/)：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
 * [RxJava](http://hao.jobbole.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
 
 
