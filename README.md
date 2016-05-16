@@ -33,7 +33,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie/)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991/)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui/)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118/)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank/)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao/)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -199,13 +199,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Apache Phoenix：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
 * Crate：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
-* Flyway：简单的数据库迁移工具。[官网](http://flywaydb.org/)
+* Flyway：简单的数据库迁移工具。[官网](https://flywaydb.org/)
 * [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
 * HikariCP：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
 * JDBI：便捷的JDBC抽象。[官网](http://jdbi.org/)
 * jOOQ：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
 * MapDB：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
-* Presto：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
+* Presto：针对大数据的分布式SQL查询引擎。[官网](https://github.com/prestodb/presto)
 * Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
@@ -288,7 +288,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cylops)
 * Fugue：Guava的函数式编程扩展。[官网](https://bitbucket.org/atlassian/fugue)
 * Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.fuctionaljava.org)
-* Javaslang：一个函数式组件库，提供持久化数据类型和函数式控制结构。[官网](http://javaslang.com)
+* Javaslang：一个函数式组件库，提供持久化数据类型和函数式控制结构。[官网](http://www.javaslang.io/)
 * jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。[官网](https://github.com/jOOQ/jOOL)
 
 <h3 id="game-development">游戏开发</h3>
@@ -315,7 +315,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * HPPC：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
 * Javolution：实时和嵌入式系统的开发库。[官网](http://javolution.org/)
 * JCTools：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
-* Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
+* Koloboke：Hash set和hash map。[官网](https://github.com/leventov/Koloboke)
 * Trove：基础类型集合。[官网](http://trove.starlight-systems.com/)
 * High-scale-bli:Cliff Click 个人开发的高性能并发库[官网](https://github.com/stephenc/high-scale-lib)
 
@@ -381,7 +381,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Spark：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
 * DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * Deeplearning4j：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
-* H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
+* H2O：用作大数据统计的分析引擎。[官网](http://www.h2o.ai/)
 * Weka：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
 
 <h3 id="messaging">消息传递</h3>
@@ -401,7 +401,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns)
 * Jimfs：内存文件系统。[官网](https://github.com/google/jimfs)
-* Lanterna：类似curses的简单console文本GUI函数库。[官网](https://code.google.com/p/lanterna/)
+* Lanterna：类似curses的简单console文本GUI函数库。[官网](https://code.google.com/archive/p/lanterna)
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
 * OpenRefine：用来处理混乱数据的工具，包括清理、转换、使用Web Service进行扩展并将其关联到数据库。[官网](http://openrefine.org/)
 * RoboVM：Java编写原生iOS应用。[官网](https://robovm.com/)
@@ -410,10 +410,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="monitoring">应用监控工具</h3>
 *监控生产环境中应用程序的工具。*
 
-* AppDynamics：性能监测商业工具。[官网](http://www.appdynamics.com/)
+* AppDynamics：性能监测商业工具。[官网](https://www.appdynamics.com/)
 * [JavaMelody](http://hao.jobbole.com/javamelody/)：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
 * Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
-* [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](http://newrelic.com/)
+* [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](https://newrelic.com/)
 * SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](https://sematext.com/spm/)
 * Takipi：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
 
@@ -579,7 +579,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Nutch](http://hao.jobbole.com/nutch/)：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
 * [Crawler4j](http://hao.jobbole.com/crawler4j/)：简单的轻量级网络爬虫。[官网](https://github.com/yasserg/crawler4j)
-* [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](http://jsoup.org/)
+* [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](https://jsoup.org/)
 
 <h3 id="web-frameworks">Web框架</h3>
 *用于处理Web应用程序不同层次间通讯的框架。*
@@ -595,7 +595,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Ratpack](http://hao.jobbole.com/ratpack/)：一组Java开发函数库，用于构建快速、高效、可扩展且测试完备的HTTP应用程序。[官网](https://ratpack.io/)
 * [Spring Boot](http://hao.jobbole.com/spring-boot/)：微框架，简化了Spring新程序的开发过程。[官网](http://projects.spring.io/spring-boot/)
 * [Spring](http://hao.jobbole.com/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。[官网](http://projects.spring.io/spring-framework/)
-* [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/)
+* [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/home)
 * Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
@@ -665,9 +665,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Android Arsenal](https://android-arsenal.com)
 * [Google Java Style](http://hao.jobbole.com/google-java-style/)：[官网](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [InfoQ](http://hao.jobbole.com/infoq/)：[官网](http://www.infoq.com/)
-* [Java Code Geeks](http://www.javacodegeeks.com/)
-* [Java, SQL, and jOOQ](http://blog.jooq.org/)
-* [Java.net](http://java.net/)
+* [Java Code Geeks](https://www.javacodegeeks.com/)
+* [Java, SQL, and jOOQ](https://blog.jooq.org/)
+* [Java.net](https://java.net/)
 * [Javalobby](http://java.dzone.com/)
 * [JavaWorld](http://hao.jobbole.com/javaworld/)：[官网](http://www.javaworld.com/)
 * [JAXenter](http://hao.jobbole.com/jaxenter/)：[官网](https://jaxenter.com/)
@@ -677,6 +677,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [TheServerSide.com](http://hao.jobbole.com/theserverside/)：服务器编程交流平台是一个老牌的IT信息网站，关注服务器端编程的，以Java和.Net周边信息为主。[官网](http://www.theserverside.com/)
 * [Thoughts On Java](http://www.thoughts-on-java.org/)
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
-* [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
+* [Vlad Mihalcea on Hibernate](https://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
 * [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
