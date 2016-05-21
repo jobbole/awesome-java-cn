@@ -285,7 +285,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="functional-programming">函数式编程</h3>
 *函数式编程支持库。*
 
-* Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cylops)
+* Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cyclops)
 * Fugue：Guava的函数式编程扩展。[官网](https://bitbucket.org/atlassian/fugue)
 * Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.fuctionaljava.org)
 * Javaslang：一个函数式组件库，提供持久化数据类型和函数式控制结构。[官网](http://javaslang.com)
