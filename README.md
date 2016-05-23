@@ -33,9 +33,19 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、You
 
 注：名单不分排名，不定期补充更新
+
+* * *
+
+### 奖励计划
+
+虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
+
+* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
+* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
+* [奖励详情](http://hao.jobbole.com/rewards/)
 
 * * *
 ### 目录
@@ -182,7 +192,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
 
-* uniVocity-parsers：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
+* [uniVocity-parsers](http://hao.jobbole.com/univocity-parsers/)：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
 
 <h3 id="database">数据库</h3>
 *简化数据库交互的相关工具。*
@@ -208,7 +218,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *处理时间和日期的开发库。*
 
 * [Joda-Time](hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
-* Time4J：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
+* [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
 
 <h3 id="dependency-injection">依赖注入</h3>
 *帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
@@ -216,13 +226,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
 * [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
-* HK2：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
+* [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
 <h3 id="development">开发流程增强工具</h3>
 *从最基本的层面增强开发流程。*
 
 * [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)
-* AspectJ：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
+* [AspectJ](http://hao.jobbole.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
 * Auto：源代码生成器集合。[官网](https://github.com/google/auto)
 * DCEVM：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)
@@ -316,16 +326,16 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [IntelliJ IDEA](http://hao.jobbole.com/intellij-idea/)：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。[官网](http://www.jetbrains.com/idea/)
 * [NetBeans](http://hao.jobbole.com/netbeans/)：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
 * [Scala IDE](http://hao.jobbole.com/scala-ide/)：一款基于Eclipse开源平台打造的Scala集成开发环境。[官网](http://scala-ide.org/)
-* [SpringSource Tool Suite（sts)](http://spring.io/tools/sts/all):一款基于Eclipse开源平台打造的spring应用开发环境。[官网](http://spring.io/tools/sts/)
+* SpringSource Tool Suite（sts):一款基于Eclipse开源平台打造的spring应用开发环境。[官网](http://spring.io/tools/sts/)
 
 <h3 id="imagery">图像处理</h3>
 *创建、评价和操作图片的支持库。*
 
 * [Imgscalr](http://hao.jobbole.com/imgscalr/)：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。[官网](https://github.com/thebuzzmedia/imgscalr)
-* Picasso：安卓图片下载和图片缓存开发库。[官网](http://square.github.io/picasso/)
-* Thumbnailator：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator)
+* [Picasso](http://hao.jobbole.com/picasso/)：安卓图片下载和图片缓存开发库。[官网](http://square.github.io/picasso/)
+* [Thumbnailator](http://hao.jobbole.com/thumbnailator/)：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator)
 * [ZXing](http://hao.jobbole.com/zxing/)：支持多种格式的一维、二维条形码图片处理开发库。[官网](https://github.com/zxing/zxing)
-* im4java: 基于ImageMagick或GraphicsMagick命令行的图片处理开发库，基本上ImageMagick能够支持的图片格式和处理方式都能够处理。[官网](http://im4java.sourceforge.net/)
+* [im4java](http://hao.jobbole.com/im4java/): 基于ImageMagick或GraphicsMagick命令行的图片处理开发库，基本上ImageMagick能够支持的图片格式和处理方式都能够处理。[官网](http://im4java.sourceforge.net/)
 
 <h3 id="json">JSON</h3>
 *简化JSON处理的开发库。*
@@ -333,8 +343,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Genson](http://hao.jobbole.com/genson/)：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
 * [Gson](http://hao.jobbole.com/gson/)：支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
-* LoganSquare：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoanSquare)
-* Fastjson: 一个Java语言编写的高性能功能完善的JSON库。它采用一种“假定有序快速匹配”的算法，把JSON Parse的性能提升到极致，是目前Java语言中最快的JSON库。Fastjson接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web输出、Android客户端等多种应用场景。[官网](https://github.com/Alibaba/fastjson)
+* [LoganSquare](http://hao.jobbole.com/logansquare/)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoganSquare)
+* [Fastjson](http://hao.jobbole.com/fastjson/): 一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
 *目前的JVM和JDK实现。*
@@ -356,9 +366,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *记录应用程序行为日志的开发库。*
 
 * [Apache Log4j 2](http://hao.jobbole.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
-* kibana：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
-* Logback：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
-* logstash：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
+* [kibana](http://hao.jobbole.com/kibana/)：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
+* [Logback](http://hao.jobbole.com/logback/)：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
+* [logstash](http://hao.jobbole.com/logstash/)：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
 * Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics)
 * [SLF4J](http://hao.jobbole.com/slf4j/)：日志抽象层，需要与具体的实现配合使用。[官网](http://www.slf4j.org/)
 
@@ -377,9 +387,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="messaging">消息传递</h3>
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
-* Aeron：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
+* [Aeron](http://hao.jobbole.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
 * [Apache ActiveMQ](http://hao.jobbole.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
-* Apache Camel：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
+* [Apache Camel](http://hao.jobbole.com/apache-camel/)：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
 * [Apache Kafka](http://hao.jobbole.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
 * Hermes：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
@@ -395,14 +405,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * LightAdmin：可插入式CRUD UI函数库，可用来快速应用开发。[官网](http://lightadmin.org/)
 * OpenRefine：用来处理混乱数据的工具，包括清理、转换、使用Web Service进行扩展并将其关联到数据库。[官网](http://openrefine.org/)
 * RoboVM：Java编写原生iOS应用。[官网](https://robovm.com/)
+* [Quartz](http://hao.jobbole.com/quartz/)：强大的任务调度库.[官网](http://www.quartz-scheduler.org/)
 
 <h3 id="monitoring">应用监控工具</h3>
 *监控生产环境中应用程序的工具。*
 
 * AppDynamics：性能监测商业工具。[官网](http://www.appdynamics.com/)
-* JavaMelody：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
+* [JavaMelody](http://hao.jobbole.com/javamelody/)：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
 * Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
-* New Relic：性能监测商业工具。[官网](http://newrelic.com/)
+* [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](http://newrelic.com/)
 * SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](https://sematext.com/spm/)
 * Takipi：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
 
@@ -414,10 +425,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="natural-language-processing">自然语言处理</h3>
 *用来专门处理文本的函数库。*
 
-* Apache OpenNLP：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
+* [Apache OpenNLP](http://hao.jobbole.com/apache-opennlp/)：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
 * [CoreNLP](http://hao.jobbole.com/stanford_corenlp/)：斯坦佛CoreNLP提供了一组基础工具，可以处理类似标签、实体名识别和情感分析这样的任务。[官网](http://nlp.stanford.edu/software/coenlp.shtml)
-* LingPipe：一组可以处理各种任务的工具集，支持POS标签、情感分析等。[官网](http://alias-i.com/lingpipe/)
-* Mallet：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
+* [LingPipe](http://hao.jobbole.com/lingpipe/)：一组可以处理各种任务的工具集，支持POS标签、情感分析等。[官网](http://alias-i.com/lingpipe/)
+* [Mallet](http://hao.jobbole.com/mallet/)：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
 
 <h3 id="networking">网络</h3>
 *网络编程函数库。*
@@ -425,14 +436,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Async Http Client](http://hao.jobbole.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
 * [Grizzly](http://hao.jobbole.com/grizzly/)：NIO框架，在Glassfish中作为网络层使用。[官网](https://grizzly.java.net/)
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
-* OkHttp：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
+* [OkHttp](http://hao.jobbole.com/okhttp/)：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
 
 <h3 id="orm">ORM</h3>
 *处理对象持久化的API。*
 
 * [Ebean](http://hao.jobbole.com/ebean/)：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
-* EclipseLink：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
+* [EclipseLink](http://hao.jobbole.com/eclipselink/)：支持许多持久化标准，JPA、JAXB、JCA和SDO。[官网](https://www.eclipse.org/eclipselink/)
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
@@ -441,37 +452,37 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来帮助创建PDF文件的资源。*
 
 * [Apache FOP](http://hao.jobbole.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
-* Apache PDFBox：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
-* DynamicReports：JasperReports的精简版。[官网](http://dynamicreports.org/)
-* flyingsaucer：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
-* iText：一个易于使用的PDF函数库，用来编程创建PDF文件。注意，用于商业用途时需要许可证。[官网](http://itextpdf.com/)
-* JasperReports：一个复杂的报表引擎。[官网](http://community.jaspersoft.com/project/jasperreports-library)
+* [Apache PDFBox](http://hao.jobbole.com/apache-pdfbox/)：用来创建和操作PDF的工具集。[官网](http://pdfbox.apache.org/)
+* [DynamicReports](http://hao.jobbole.com/dynamicreports/)：JasperReports的精简版。[官网](http://dynamicreports.org/)
+* [flyingsaucer](http://hao.jobbole.com/flyingsaucer/)：XML/XHTML和CSS 2.1渲染器。[官网](https://github.com/flyingsaucerproject/flyingsaucer)
+* [iText](http://hao.jobbole.com/itext/)：一个易于使用的PDF函数库，用来编程创建PDF文件。注意，用于商业用途时需要许可证。[官网](http://itextpdf.com/)
+* [JasperReports](http://hao.jobbole.com/jasperreports/)：一个复杂的报表引擎。[官网](http://community.jaspersoft.com/project/jasperreports-library)
 
 <h3 id="performance-analysis">性能分析</h3>
 *性能分析、性能剖析及基准测试工具。*
 
-* jHiccup：提供平台中JVM抛锚的日志和记录。[官网](https://github.com/giltene/jHiccup)
-* JMH：JVM为基准测试工具。[官网](http://openjdk.java.net/projects/code-tools/jmh/)
-* JProfiler：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
-* LatencyUtils：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
-* VisualVM：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
-* YourKit Java Profiler：商业分析器。[官网](https://www.yourkit.com/features/)
+* [jHiccup](http://hao.jobbole.com/jhiccup/)：提供平台中JVM暂停的日志和记录。[官网](https://github.com/giltene/jHiccup)
+* [JMH](http://hao.jobbole.com/jmh/)：JVM基准测试工具。[官网](http://openjdk.java.net/projects/code-tools/jmh/)
+* [JProfiler](http://hao.jobbole.com/jprofiler/)：商业分析器。[官网](https://www.ej-technologies.com/products/jprofiler/overview.html)
+* [LatencyUtils](http://hao.jobbole.com/latencyutils/)：测量和报告延迟的工具。[官网](https://github.com/LatencyUtils/LatencyUtils)
+* [VisualVM](http://hao.jobbole.com/visualvm/)：对运行中的应用程序信息提供了可视化界面。[官网](http://visualvm.java.net/)
+* [YourKit Java Profiler](http://hao.jobbole.com/yourkit-java-profiler/)：商业分析器。[官网](https://www.yourkit.com/features/)
 
 <h3 id="reactive-libraries">响应式开发库</h3>
 *用来开发响应式应用程序的开发库。*
 
 * [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
-* Reactor：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
-* RxJava：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
+* [Reactor](http://hao.jobbole.com/reactor/)：构建响应式快速数据（fast-data）应用程序的开发库。[官网](http://projectreactor.io/)
+* [RxJava](http://hao.jobbole.com/rxjava/)：通过JVM可观察序列（observable sequence）构建异步和基于事件的程序。[官网](https://github.com/ReactiveX/RxJava)
 
 
 <h3 id="rest-frameworks">REST框架</h3>
 *用来创建RESTful 服务的框架。*
 
-* Dropwizard：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
+* [Dropwizard](http://hao.jobbole.com/dropwizard/)：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
 * [Feign](http://hao.jobbole.com/feign/)：受Retrofit、JAXRS-2.0和WebSocket启发的HTTP客户端连接器（binder）。[官网](https://github.com/Netflix/feign)
 * Jersey：JAX-RS参考实现。[官网](https://jersey.java.net/)
-* RESTEasy：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
+* [RESTEasy](http://hao.jobbole.com/resteasy/)：经过JAX-RS规范完全认证的可移植实现。[官网](http://resteasy.jboss.org/)
 * [RestExpress](http://hao.jobbole.com/restexpress/)：一个Java类型安全的REST客户端。[官网](https://github.com/RestExpress/RestExpress)
 * [RestX](http://hao.jobbole.com/restx/)：基于注解处理和编译时源码生成的框架。[官网](http://restx.io)
 * [Retrofit](http://hao.jobbole.com/retrofit/)：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
@@ -504,7 +515,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="serialization">序列化</h3>
 *用来高效处理序列化的函数库。*
 
-* FlatBuffers：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
+* [FlatBuffers](http://hao.jobbole.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
 * [Kryo](http://hao.jobbole.com/kryo/)：快速、高效的对象图形序列化框架。[官网](https://github.com/EsotericSoftware/kryo)
 * [FST](http://hao.jobbole.com/fst/)：提供兼容JDK的高性能对象图形序列化。[官网](https://github.com/RuedigerMoeller/fast-serialization)
 * [MessagePack](http://hao.jobbole.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
@@ -512,9 +523,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="server">应用服务器</h3>
 *用来部署应用程序的服务器。*
 
-* Apache Tomcat：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
+* [Apache Tomcat](http://hao.jobbole.com/apache-tomcat/)：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
 * [Apache TomEE](http://hao.jobbole.com/tomee/)：Tomcat加Java EE。[官网](http://tomee.apache.org/)
-* Jetty：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
+* [Jetty](http://hao.jobbole.com/jetty/)：轻量级、小巧的应用服务器，通常会嵌入到项目中。[官网](http://www.eclipse.org/jetty/)
 * [WebSphere Liberty](http://hao.jobbole.com/websphere-liberty/)：轻量级、模块化应用服务器，由IBM开发。[官网](https://developer.ibm.com/wasdev/)
 * [WildFly](http://hao.jobbole.com/wildfly/)：之前被称作JBoss，由Red Hat开发。支持很多Java EE功能。[官网](http://www.wildfly.org/)
 
@@ -533,7 +544,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache JMeter](http://hao.jobbole.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
 * [Arquillian](http://hao.jobbole.com/arquillian/)：集成测试和功能行测试平台，集成Java EE容器。[官网](http://arquillian.org/)
 * [AssertJ](http://hao.jobbole.com/assertj/)：支持流式断言提高测试的可读性。[官网](http://joel-costigliola.github.io/assertj/)
-* Awaitility：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
+* [Awaitility](http://hao.jobbole.com/awaitility/)：用来同步异步操作的DSL。[官网](https://github.com/jayway/awaitility)
 * [Cucumber](http://hao.jobbole.com/cucumber-jvm/)：BDD测试框架。[官网](https://github.com/cucumber/cucumber-jvm)
 * Gatling：设计为易于使用、可维护的和高性能负载测试工具。[官网](http://gatling.io/)
 * [Hamcrest](http://hao.jobbole.com/hamcrest/)：可用来灵活创建意图（intent）表达式的匹配器。[官网](http://hamcrest.org/JavaHamcrest/)
@@ -548,7 +559,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [TestNG](http://hao.jobbole.com/testng/)：测试框架。[官网](http://testng.org/)
 * [Truth](http://hao.jobbole.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
 * [Unitils](http://hao.jobbole.com/unitils/)：模块化测试函数库，支持单元测试和集成测试。[官网](http://www.unitils.org/)
-* WireMock：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
+* [WireMock](http://hao.jobbole.com/wiremock/)：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
 <h3 id="utility">通用工具库</h3>
 *通用工具类函数库。*
@@ -559,8 +570,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Gephi](http://hao.jobbole.com/gephi/)：可视化跨平台网络图形化操作程序。[官网](https://github.com/gephi/gephi/)
 * [Guava](http://hao.jobbole.com/guava/)：集合、缓存、支持基本类型、并发函数库、通用注解、字符串处理、I/O等。[官网](https://github.com/google/guava)
 * [JADE](http://hao.jobbole.com/jade/)：构建、调试多租户系统的框架和环境。[官网](http://jade.tilab.com/)
-* javatuples：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
-* JCommander：命令行参数解析器。[官网](http://jcommander.org/)
+* [javatuples](http://hao.jobbole.com/javatuples/)：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
+* [JCommander](http://hao.jobbole.com/jcommander/)：命令行参数解析器。[官网](http://jcommander.org/)
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
 
 <h3 id="web-crawling">网络爬虫</h3>
@@ -590,7 +601,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
 *流程驱动的软件系统构建。*
 
-* jBPM：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
+* [jBPM](http://hao.jobbole.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
