@@ -232,6 +232,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Joda-Time](hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
 * [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
+* [threeten-extra](http://www.threeten.org/threeten-extra/)：对java8时间对补充。[官网](http://www.threeten.org/threeten-extra/)
+
 
 <h3 id="dependency-injection">依赖注入</h3>
 *帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
