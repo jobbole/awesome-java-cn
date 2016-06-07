@@ -29,11 +29,24 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
+
+* * *
+
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -312,7 +325,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Disruptor：线程间消息传递开发库。[官网](http://lmax-exchange.github.io/disruptor/)
 * fastutil：快速紧凑的特定类型集合（Collection）。[官网](http://fastutil.di.unimi.it/)
 * GS Collections：受Smalltalk启发的集合框架。[官网](https://github.com/goldmansachs/gs-collections)
-* HPPC：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
+* [HPPC](http://hao.jobbole.com/hppc/)：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
 * Javolution：实时和嵌入式系统的开发库。[官网](http://javolution.org/)
 * JCTools：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
 * Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
@@ -382,7 +395,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * Deeplearning4j：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
 * H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
-* Weka：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Weka](http://hao.jobbole.com/weka/)：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
 
 <h3 id="messaging">消息传递</h3>
 *在客户端之间进行消息传递，确保协议独立性的工具。*
