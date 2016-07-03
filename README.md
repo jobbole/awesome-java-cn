@@ -274,7 +274,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Cassandra：列式数据库，可用性高且没有单点故障。[官网](http://cassandra.apache.org)
 * Apache HBase：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)
 * [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)
-* Infinispan：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
+* [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
 
 <h3 id="distribution">发布</h3>
 *以本机格式发布应用程序的工具。*
