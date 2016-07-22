@@ -388,7 +388,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="machine-learning">机器学习</h3>
 *提供具体统计算法的工具。其算法可从数据中学习。*
 
-* Apache Flink：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
+* [Apache Flink](http://hao.jobbole.com/apache-flink/)：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
 * [Apache Hadoop](http://hao.jobbole.com/apache-hadoop/)：在商用硬件集群上用来进行大规模数据存储的开源软件框架。[官网](http://hadoop.apache.org/)
 * Apache Mahout：专注协同过滤、聚类和分类的可扩展算法。[官网](https://mahout.apache.org/)
 * Apache Spark：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
