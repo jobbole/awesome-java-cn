@@ -234,7 +234,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
 
 <h3 id="dependency-injection">依赖注入</h3>
-*帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
+*帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
