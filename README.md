@@ -301,7 +301,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cylops)
 * Fugue：Guava的函数式编程扩展。[官网](https://bitbucket.org/atlassian/fugue)
-* Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.fuctionaljava.org)
+* Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.functionaljava.org)
 * Javaslang：一个函数式组件库，提供持久化数据类型和函数式控制结构。[官网](http://javaslang.com)
 * jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。[官网](https://github.com/jOOQ/jOOL)
 
