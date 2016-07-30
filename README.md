@@ -364,7 +364,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *目前的JVM和JDK实现。*
 
 * JDK 9：JDK 9的早期访问版本。[官网](https://jdk9.java.net/)
-* OpenJDK：JDK开源实现。[官网](http://openjdk.java.net/)
+* [OpenJDK](http://hao.jobbole.com/openjdk/)：JDK开源实现。[官网](http://openjdk.java.net/)
 
 <h3 id="languages">基于JVM的语言</h3>
 *除Java外，可以用来编写JVM应用程序的编程语言。*
