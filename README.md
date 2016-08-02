@@ -667,6 +667,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Tim Boudreau](https://twitter.com/kablosna)：作家、NetBeans大牛。
 * [Trisha Gee](https://twitter.com/trisha_gee)：Java Champion、演讲者。
 
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
+* ImportNew：最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
+<br><img src="http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg" width=150 height=150>
+
 <h3 id="websites">知名网站</h3>
 *值得关注的Java技术站点。*
 
