@@ -393,7 +393,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Hadoop](http://hao.jobbole.com/apache-hadoop/)：在商用硬件集群上用来进行大规模数据存储的开源软件框架。[官网](http://hadoop.apache.org/)
 * Apache Mahout：专注协同过滤、聚类和分类的可扩展算法。[官网](https://mahout.apache.org/)
 * Apache Spark：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
-* DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
+* [DeepDive](http://hao.jobbole.com/deepdive/)：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * Deeplearning4j：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
 * H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
 * [Weka](http://hao.jobbole.com/weka/)：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
