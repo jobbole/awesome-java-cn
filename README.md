@@ -405,7 +405,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache ActiveMQ](http://hao.jobbole.com/activemq/)：实现JMS的开源消息代理（broker），可将同步通讯转为异步通讯。[官网](http://activemq.apache.org/)
 * [Apache Camel](http://hao.jobbole.com/apache-camel/)：通过企业级整合模式（Enterprise Integration Pattern EIP）将不同的消息传输API整合在一起。[官网](http://camel.apache.org/)
 * [Apache Kafka](http://hao.jobbole.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
-* Hermes：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
+* [Hermes](http://hao.jobbole.com/hermes/)：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
 * JeroMQ：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
 * [Smack](http://hao.jobbole.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/)
