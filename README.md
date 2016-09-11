@@ -247,7 +247,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)
 * [AspectJ](http://hao.jobbole.com/aspectj/)：面向切面编程（AOP）的无缝扩展。[官网](https://eclipse.org/aspectj/)
-* Auto：源代码生成器集合。[官网](https://github.com/google/auto)
+* [Auto](http://hao.jobbole.com/auto/)：源代码生成器集合。[官网](https://github.com/google/auto)
 * DCEVM：通过修改JVM在运行时支持对已加载的类进行无限次重定义。[官网](http://dcevm.github.io/)
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)
 * Immutables：类似Scala的条件类。[官网](http://immutables.github.io/)
@@ -424,7 +424,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="monitoring">应用监控工具</h3>
 *监控生产环境中应用程序的工具。*
 
-* AppDynamics：性能监测商业工具。[官网](http://www.appdynamics.com/)
+* [AppDynamics](http://hao.jobbole.com/appdynamics/)：性能监测商业工具。[官网](http://www.appdynamics.com/)
 * [JavaMelody](http://hao.jobbole.com/javamelody/)：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
 * Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
 * [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](http://newrelic.com/)
