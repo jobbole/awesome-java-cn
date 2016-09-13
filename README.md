@@ -158,7 +158,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *在集群内动态管理应用程序的框架。*
 
 * Apache Aurora：Apache Aurora是一个Mesos框架，用于长时间运行服务和定时任务（cron job）。[官网](http://aurora.apache.org/)
-* Singularity：Singularity是一个Mesos框架，方便部署和操作。它支持Web Service、后台运行、调度作业和一次性任务。[官网](http://getsingularity.com/)
+* [Singularity](http://hao.jobbole.com/singularity/)：Singularity是一个Mesos框架，方便部署和操作。它支持Web Service、后台运行、调度作业和一次性任务。[官网](http://getsingularity.com/)
 
 <h3 id="code-analysis">代码分析</h3>
 *测量代码指标和质量工具。*
@@ -391,7 +391,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Apache Flink](http://hao.jobbole.com/apache-flink/)：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
 * [Apache Hadoop](http://hao.jobbole.com/apache-hadoop/)：在商用硬件集群上用来进行大规模数据存储的开源软件框架。[官网](http://hadoop.apache.org/)
-* Apache Mahout：专注协同过滤、聚类和分类的可扩展算法。[官网](https://mahout.apache.org/)
+* [Apache Mahout](http://hao.jobbole.com/apache-mahout/)：专注协同过滤、聚类和分类的可扩展算法。[官网](https://mahout.apache.org/)
 * [Apache Spark](http://hao.jobbole.com/apache-spark/)：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
 * [DeepDive](http://hao.jobbole.com/deepdive/)：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * [Deeplearning4j](http://hao.jobbole.com/deeplearning4j/)：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
