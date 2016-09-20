@@ -201,6 +201,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)
 * TeamCity：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
 * Travis：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
+* Buildkite: 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
 
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
