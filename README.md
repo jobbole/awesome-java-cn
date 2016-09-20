@@ -618,6 +618,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *流程驱动的软件系统构建。*
 
 * [jBPM](http://hao.jobbole.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
+* Activity：轻量级工作流和业务流程管理框架。[官网](http://www.activiti.org/) [github](https://github.com/Activiti/Activiti)
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
