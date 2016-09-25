@@ -193,7 +193,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Sat4J：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
 
 <h3 id="continuous-integration">持续集成</h3>
-* Bamboo：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/sotware/bamboo)
+* Bamboo：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)
 * CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
 * Codeship：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
 * fabric8：容器集成平台。[官网](http://fabric8.io/)
