@@ -231,7 +231,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="date-and-time">时间日期工具库</h3>
 *处理时间和日期的开发库。*
 
-* [Joda-Time](hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
+* [Joda-Time](http://hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
 * [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
 * ThreeTen：JSR-310实现，为JDK提供更具特点的时间和日期API。[官网](http://www.threeten.org)
 
