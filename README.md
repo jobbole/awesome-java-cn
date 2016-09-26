@@ -129,7 +129,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *这些工具伴随着Java一起出现，在各自辉煌之后还在一直使用。*
 
-* Apache Ant：基于XML的构建管理工具。[官网](http://ant.apache.org/)
+* [Apache Ant](http://hao.jobbole.com/apache-ant/)：基于XML的构建管理工具。[官网](http://ant.apache.org/)
 * cglib：字节码生成库。[官网](https://github.com/cglib/cglib)
 * GlassFish：应用服务器，由Oracle赞助支持的Java EE参考实现。[官网](https://glassfish.java.net/)
 * [Hudson](http://hao.jobbole.com/hudson/)：持续集成服务器，目前仍在活跃开发。[官网](http://hudson-ci.org/)
@@ -309,7 +309,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="game-development">游戏开发</h3>
 *游戏开发框架。*
 
-* jMonkeyEngine：现代3D游戏开发引擎。[官网](http://jmonkeyengine.org/)
+* [jMonkeyEngine](http://hao.jobbole.com/jmonkeyengine/)：现代3D游戏开发引擎。[官网](http://jmonkeyengine.org/)
 * [libGDX](http://hao.jobbole.com/libgdx/)：全面的跨平台高级框架。[官网](https://libgdx.badlogicgames.com/)
 * LWJGL：对OpenGL/CL/AL等技术进行抽象的健壮框架。[官网](https://www.lwjgl.org/)
 
@@ -408,7 +408,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Kafka](http://hao.jobbole.com/kafka/)：高吞吐量分布式消息系统。[官网](http://kafka.apache.org/)
 * [Hermes](http://hao.jobbole.com/hermes/)：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
-* JeroMQ：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
+* [JeroMQ](http://hao.jobbole.com/jeromq/)：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
 * [Smack](http://hao.jobbole.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/)
 
 <h3 id="miscellaneous">杂项</h3>
