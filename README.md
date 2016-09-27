@@ -145,6 +145,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
 * [Bazel](http://hao.jobbole.com/bazel/)：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
 * [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
+* [Buck](https://buckbuild.com/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
 *编程方式操作字节码的开发库。*
@@ -221,6 +222,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * MapDB：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
 * Presto：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
 * Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
+* [Deby](https://db.apache.org/derby/) : Apache 旗下轻量级数据库, [官网](https://db.apache.org/derby/)
 
 <h3 id="data-structures">数据结构</h3>
 * Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
@@ -269,6 +271,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JGroups：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)
 * Orbit：支持虚拟角色（Actor），在传统角色的基础上增加了另外一层抽象。[官网](http://orbit.bioware.com/)
 * Quasar：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
+* [copycat](https://github.com/atomix/copycat) ：基于 Raft 的开源实现。[官网](https://github.com/atomix/copycat)
 
 <h3 id="distributed-databases">分布式数据库</h3>
 *对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。*
@@ -360,6 +363,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
 * [LoganSquare](http://hao.jobbole.com/logansquare/)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoganSquare)
 * [Fastjson](http://hao.jobbole.com/fastjson/): 一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
+* [Kyro](https://github.com/EsotericSoftware/kryo) : 高效的序列化库，性能比 Fastjson 更好, [官网](https://github.com/EsotericSoftware/kryo)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
 *目前的JVM和JDK实现。*
@@ -506,6 +510,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Spark](http://hao.jobbole.com/sparkjava/)：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
 * [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
 * [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [Restlet](restlet.com) ：RestFul web 服务框架。[官网](restlet.com)
 
 <h3 id="science">科学计算与分析</h3>
 *用于科学计算和分析的函数库。*
