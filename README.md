@@ -46,7 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、[邢敏](https://github.com/dfghj44444)、[heikehuan](https://github.com/heikehuan)、[fgcui1204](https://github.com/fgcui1204)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、[邢敏](https://github.com/dfghj44444)、[heikehuan](https://github.com/heikehuan)、[fgcui1204](https://github.com/fgcui1204)、[wenxueliu](https://github.com/wenxueliu)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -145,6 +145,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
 * [Bazel](http://hao.jobbole.com/bazel/)：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
 * [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
+* Buck：Facebook构建工具。[官网](https://buckbuild.com/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
 *编程方式操作字节码的开发库。*
@@ -359,7 +360,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Gson](http://hao.jobbole.com/gson/)：谷歌官方推出的JSON处理库，支持在对象与JSON之间双向序列化，性能良好且可以实时调用。[官网](https://github.com/google/gson)
 * [Jackson](http://hao.jobbole.com/jackson/)：与GSON类似，在频繁使用时性能更佳。[官网](http://wiki.fasterxml.com/JacksonHome)
 * [LoganSquare](http://hao.jobbole.com/logansquare/)：基于Jackson流式API，提供对JSON解析和序列化。比GSON与Jackson组合方式效果更好。[官网](https://github.com/bluelinelabs/LoganSquare)
-* [Fastjson](http://hao.jobbole.com/fastjson/): 一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
+* [Fastjson](http://hao.jobbole.com/fastjson/)：一个Java语言编写的高性能功能完善的JSON库。[官网](https://github.com/Alibaba/fastjson)
+* Kyro：快速、高效、自动化的Java对象序列化和克隆库。[官网](https://github.com/EsotericSoftware/kryo)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
 *目前的JVM和JDK实现。*
