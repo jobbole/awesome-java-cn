@@ -157,7 +157,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="cluster-management">集群管理</h3>
 *在集群内动态管理应用程序的框架。*
 
-* Apache Aurora：Apache Aurora是一个Mesos框架，用于长时间运行服务和定时任务（cron job）。[官网](http://aurora.apache.org/)
+* [Apache Aurora](http://hao.jobbole.com/apache-aurora/)：Apache Aurora是一个Mesos框架，用于长时间运行服务和定时任务（cron job）。[官网](http://aurora.apache.org/)
 * [Singularity](http://hao.jobbole.com/singularity/)：Singularity是一个Mesos框架，方便部署和操作。它支持Web Service、后台运行、调度作业和一次性任务。[官网](http://getsingularity.com/)
 
 <h3 id="code-analysis">代码分析</h3>
