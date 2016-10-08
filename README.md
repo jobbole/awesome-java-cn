@@ -352,6 +352,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Thumbnailator](http://hao.jobbole.com/thumbnailator/)：Thumbnailator是一个高质量Java缩略图开发库。[官网](https://github.com/coobird/thumbnailator)
 * [ZXing](http://hao.jobbole.com/zxing/)：支持多种格式的一维、二维条形码图片处理开发库。[官网](https://github.com/zxing/zxing)
 * [im4java](http://hao.jobbole.com/im4java/): 基于ImageMagick或GraphicsMagick命令行的图片处理开发库，基本上ImageMagick能够支持的图片格式和处理方式都能够处理。[官网](http://im4java.sourceforge.net/)
+* [Apache Batik](http://xmlgraphics.apache.org/batik/)：在java应用中程序以SVG格式显示、生成及处理图像的工具集，包括SVG解析器、SVG生成器、SVG DOM等模块，可以集成使用也可以单独使用，还可以扩展自定义的SVG标签。[官网](http://xmlgraphics.apache.org/batik/)
 
 <h3 id="json">JSON</h3>
 *简化JSON处理的开发库。*
