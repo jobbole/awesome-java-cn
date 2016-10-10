@@ -523,7 +523,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="search">搜索引擎</h3>
 *文档索引引擎，用于搜索和分析。*
 
-* Apache Lecene：是一个开放源代码的全文检索引擎工具包，是一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎。[官网](http://lucene.apache.org/)
+* Apache Lucene：是一个开放源代码的全文检索引擎工具包，是一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎。[官网](http://lucene.apache.org/)
 * [Apache Solr](http://hao.jobbole.com/solr/)：一个完全的企业搜索引擎。为高吞吐量通信进行了优化。[官网](http://lucene.apache.org/solr/)
 * Nutch：是一个开源Java 实现的搜索引擎。它提供了我们运行自己的搜索引擎所需的全部工具。包括全文搜索和Web爬虫。 Nutch的创始人是Doug Cutting，他同时也是Lucene、Hadoop和Avro开源项目的创始人。[官网](http://nutch.apache.org/)
 * Elasticsearch：一个分布式、支持多租户（multitenant）全文本搜索引擎。提供了RESTful Web接口和无schema的JSON文档。[官网](http://www.elsticsearch.org/)
