@@ -412,7 +412,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hermes](http://hao.jobbole.com/hermes/)：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
 * [JeroMQ](http://hao.jobbole.com/jeromq/)：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
+* Openfire：是开源的、基于XMPP、采用Java编程语言开发的实时协作服务器。 Openfire安装和使用都非常简单，并可利用Web界面进行管理。 [官网](http://www.igniterealtime.org/projects/openfire/index.jsp) [源代码](https://github.com/igniterealtime/Openfire)
 * [Smack](http://hao.jobbole.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/)
+* Spark：是一个开源，跨平台IM客户端。它的特性支持集组聊天，电话集成和强大安全性能。如果企业内部部署IM使用Openfire+Spark是最佳的组合。 [官网](http://www.igniterealtime.org/projects/spark/index.jsp) [源代码](https://github.com/igniterealtime/Spark)
+* Tigase： 是一个轻量级的可伸缩的 Jabber/XMPP 服务器。无需其他第三方库支持，可以处理非常高的复杂和大量的用户数，可以根据需要进行水平扩展。 [官网](http://www.tigase.net)
 
 <h3 id="miscellaneous">杂项</h3>
 *未分类其它资源。*
@@ -520,8 +523,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="search">搜索引擎</h3>
 *文档索引引擎，用于搜索和分析。*
 
+* Apache Lucene：是一个开放源代码的全文检索引擎工具包，是一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎。[官网](http://lucene.apache.org/)
 * [Apache Solr](http://hao.jobbole.com/solr/)：一个完全的企业搜索引擎。为高吞吐量通信进行了优化。[官网](http://lucene.apache.org/solr/)
+* Nutch：是一个开源Java 实现的搜索引擎。它提供了我们运行自己的搜索引擎所需的全部工具。包括全文搜索和Web爬虫。 Nutch的创始人是Doug Cutting，他同时也是Lucene、Hadoop和Avro开源项目的创始人。[官网](http://nutch.apache.org/)
 * Elasticsearch：一个分布式、支持多租户（multitenant）全文本搜索引擎。提供了RESTful Web接口和无schema的JSON文档。[官网](http://www.elsticsearch.org/)
+
 
 <h3 id="security">安全</h3>
 *用于处理安全、认证、授权或会话管理的函数库。*
