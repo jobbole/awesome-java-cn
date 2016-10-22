@@ -266,7 +266,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.apache.org/)
 * [Apache ZooKeeper](http://hao.jobbole.com/zookeeper/)：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
 * Hazelcast：高可扩展内存数据网格。[官网](http://hazelcast.org/)
-* Hystrix：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
+* [Hystrix](http://hao.jobbole.com/hystrix/)：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
 * JGroups：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)
 * Orbit：支持虚拟角色（Actor），在传统角色的基础上增加了另外一层抽象。[官网](http://orbit.bioware.com/)
 * Quasar：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
