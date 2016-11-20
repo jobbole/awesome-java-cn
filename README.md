@@ -269,7 +269,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hystrix](http://hao.jobbole.com/hystrix/)：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
 * [JGroups](http://hao.jobbole.com/jgroups/)：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)
 * [Orbit](http://hao.jobbole.com/orbit/)：支持虚拟角色（Actor），在传统角色的基础上增加了另外一层抽象。[官网](http://orbit.bioware.com/)
-* Quasar：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
+* [Quasar](http://hao.jobbole.com/quasar/)：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
 
 <h3 id="distributed-databases">分布式数据库</h3>
 *对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。*
