@@ -387,7 +387,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [kibana](http://hao.jobbole.com/kibana/)：分析及可视化日志文件。[官网](https://www.elastic.co/products/kibana)
 * [Logback](http://hao.jobbole.com/logback/)：强健的日期开发库，通过Groovy提供很多有趣的选项。[官网](http://logback.qos.ch/)
 * [logstash](http://hao.jobbole.com/logstash/)：日志文件管理工具。[官网](https://www.elastic.co/products/logstash)
-* Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics)
+* [Metrics](http://hao.jobbole.com/metrics/)：通过JMX或HTTP发布参数，并且支持存储到数据库。[官网](https://github.com/dropwizard/metrics)
 * [SLF4J](http://hao.jobbole.com/slf4j/)：日志抽象层，需要与具体的实现配合使用。[官网](http://www.slf4j.org/)
 
 <h3 id="machine-learning">机器学习</h3>
