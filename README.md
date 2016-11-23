@@ -218,7 +218,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
 * HikariCP：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
 * JDBI：便捷的JDBC抽象。[官网](http://jdbi.org/)
-* jOOQ：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
+* [jOOQ](http://hao.jobbole.com/jooq/)：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
 * MapDB：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
 * Presto：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
 * Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
