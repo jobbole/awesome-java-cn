@@ -435,7 +435,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [AppDynamics](http://hao.jobbole.com/appdynamics/)：性能监测商业工具。[官网](http://www.appdynamics.com/)
 * [JavaMelody](http://hao.jobbole.com/javamelody/)：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
-* Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
+* [Kamon](http://hao.jobbole.com/Kamon/)：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
 * [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](http://newrelic.com/)
 * SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](https://sematext.com/spm/)
 * Takipi：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
