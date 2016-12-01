@@ -150,8 +150,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="bytecode-manipulation">字节码操作</h3>
 *编程方式操作字节码的开发库。*
 
-* ASM：通用底层字节码操作和分析开发库。[官网](http://asm.ow2.org/)
-* Byte Buddy：使用流式API进一步简化字节码生成。[官网](http://bytebuddy.net/)
+* [ASM](http://hao.jobbole.com/asm/)：通用底层字节码操作和分析开发库。[官网](http://asm.ow2.org/)
+* [Byte Buddy](http://hao.jobbole.com/byte-buddy/)：使用流式API进一步简化字节码生成。[官网](http://bytebuddy.net/)
 * Byteman：在运行时通过DSL（规则）操作字节码进行测试和故障排除。[官网](http://byteman.jboss.org/)
 * Javassist：一个简化字节码编辑尝试。[官网](http://jboss-javassist.github.io/javassist)
 
