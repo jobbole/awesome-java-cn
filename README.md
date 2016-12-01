@@ -212,7 +212,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="database">数据库</h3>
 *简化数据库交互的相关工具。*
 
-* Apache Phoenix：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
+* [Apache Phoenix](http://hao.jobbole.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
 * Crate：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
 * [Flyway](http://hao.jobbole.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)
 * [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
