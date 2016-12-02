@@ -130,8 +130,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *这些工具伴随着Java一起出现，在各自辉煌之后还在一直使用。*
 
 * [Apache Ant](http://hao.jobbole.com/apache-ant/)：基于XML的构建管理工具。[官网](http://ant.apache.org/)
-* cglib：字节码生成库。[官网](https://github.com/cglib/cglib)
-* GlassFish：应用服务器，由Oracle赞助支持的Java EE参考实现。[官网](https://glassfish.java.net/)
+* [cglib](http://hao.jobbole.com/cglib/)：字节码生成库。[官网](https://github.com/cglib/cglib)
+* [GlassFish](http://hao.jobbole.com/glassfish/)：应用服务器，由Oracle赞助支持的Java EE参考实现。[官网](https://glassfish.java.net/)
 * [Hudson](http://hao.jobbole.com/hudson/)：持续集成服务器，目前仍在活跃开发。[官网](http://hudson-ci.org/)
 * JavaServer Faces：Mojarra是JSF标准的一个开源实现，由Oracle开发。[官网](https://javaserverfaces.java.net/)
 * JavaServer Pages：支持自定义标签库的网站通用模板库。[官网](https://jsp.java.net/)
