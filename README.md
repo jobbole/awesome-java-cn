@@ -133,8 +133,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [cglib](http://hao.jobbole.com/cglib/)：字节码生成库。[官网](https://github.com/cglib/cglib)
 * [GlassFish](http://hao.jobbole.com/glassfish/)：应用服务器，由Oracle赞助支持的Java EE参考实现。[官网](https://glassfish.java.net/)
 * [Hudson](http://hao.jobbole.com/hudson/)：持续集成服务器，目前仍在活跃开发。[官网](http://hudson-ci.org/)
-* JavaServer Faces：Mojarra是JSF标准的一个开源实现，由Oracle开发。[官网](https://javaserverfaces.java.net/)
-* JavaServer Pages：支持自定义标签库的网站通用模板库。[官网](https://jsp.java.net/)
+* [JavaServer Faces](http://hao.jobbole.com/javaserver-faces/)：Mojarra是JSF标准的一个开源实现，由Oracle开发。[官网](https://javaserverfaces.java.net/)
+* [JavaServer Pages](http://hao.jobbole.com/javaserver-pages/)：支持自定义标签库的网站通用模板库。[官网](https://jsp.java.net/)
 * Liquibase：与具体数据库独立的追踪、管理和应用数据库Scheme变化的工具。[官网](http://www.liquibase.org/)
 
 
