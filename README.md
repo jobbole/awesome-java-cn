@@ -135,7 +135,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hudson](http://hao.jobbole.com/hudson/)：持续集成服务器，目前仍在活跃开发。[官网](http://hudson-ci.org/)
 * [JavaServer Faces](http://hao.jobbole.com/javaserver-faces/)：Mojarra是JSF标准的一个开源实现，由Oracle开发。[官网](https://javaserverfaces.java.net/)
 * [JavaServer Pages](http://hao.jobbole.com/javaserver-pages/)：支持自定义标签库的网站通用模板库。[官网](https://jsp.java.net/)
-* Liquibase：与具体数据库独立的追踪、管理和应用数据库Scheme变化的工具。[官网](http://www.liquibase.org/)
+* [Liquibase](http://hao.jobbole.com/liquibase/)：与具体数据库独立的追踪、管理和应用数据库Scheme变化的工具。[官网](http://www.liquibase.org/)
 
 
 <h3 id="build">构建工具</h3>
@@ -145,7 +145,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Maven](http://hao.jobbole.com/maven/)：Maven是一款声明式构建及依赖管理工具，采用约定优于配置方式进行管理。相对Apache Ant更推荐使用Maven，前者采用了过程式管理，维护相对困难。[官网](http://maven.apache.org/)
 * [Bazel](http://hao.jobbole.com/bazel/)：来自Google的构建工具，可以快速、可靠地构建代码。[官网](http://bazel.io)
 * [Gradle](http://hao.jobbole.com/gradle/)：使用Groovy（非XML）进行增量构建，可以很好地与Maven依赖管理配合工作。[官网](http://gradle.org/)
-* Buck：Facebook构建工具。[官网](https://buckbuild.com/)
+* [Buck](http://hao.jobbole.com/buck/)：Facebook构建工具。[官网](https://buckbuild.com/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
 *编程方式操作字节码的开发库。*
