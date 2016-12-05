@@ -153,7 +153,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [ASM](http://hao.jobbole.com/asm/)：通用底层字节码操作和分析开发库。[官网](http://asm.ow2.org/)
 * [Byte Buddy](http://hao.jobbole.com/byte-buddy/)：使用流式API进一步简化字节码生成。[官网](http://bytebuddy.net/)
 * Byteman：在运行时通过DSL（规则）操作字节码进行测试和故障排除。[官网](http://byteman.jboss.org/)
-* Javassist：一个简化字节码编辑尝试。[官网](http://jboss-javassist.github.io/javassist)
+* [Javassist](http://hao.jobbole.com/javassist/)：一个简化字节码编辑尝试。[官网](http://jboss-javassist.github.io/javassist)
 
 <h3 id="cluster-management">集群管理</h3>
 *在集群内动态管理应用程序的框架。*
@@ -165,7 +165,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *测量代码指标和质量工具。*
 
 * [Checkstyle](http://hao.jobbole.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle)
-* Error Prone：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone)
+* [Error Prone](http://hao.jobbole.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone)
 * FindBugs：通过字节码静态分析查找隐藏bug。[官网](http://findbugs.sourceforge.net/)
 * jQAssistant：使用基于Neo4J查询语言进行代码静态分析。[官网](http://jqassistant.org/)
 * [PMD](http://hao.jobbole.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd)
