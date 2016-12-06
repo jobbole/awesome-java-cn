@@ -167,7 +167,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Checkstyle](http://hao.jobbole.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle)
 * [Error Prone](http://hao.jobbole.com/error-prone/)：将常见编程错误作为运行时错误报告。[官网](https://github.com/google/error-prone)
 * FindBugs：通过字节码静态分析查找隐藏bug。[官网](http://findbugs.sourceforge.net/)
-* jQAssistant：使用基于Neo4J查询语言进行代码静态分析。[官网](http://jqassistant.org/)
+* [jQAssistant](http://hao.jobbole.com/jqassistant/)：使用基于Neo4J查询语言进行代码静态分析。[官网](http://jqassistant.org/)
 * [PMD](http://hao.jobbole.com/pmd/)：对源代码分析查找不良的编程习惯。[官网](https://github.com/pmd/pmd)
 * [SonarQube](http://hao.jobbole.com/sonarqube/)：通过插件集成其它分析组件，对过去一段时间内的数据进行统计。[官网](http://www.sonarqube.org/)
 
@@ -188,7 +188,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
 *帮助解决约束满足问题的开发库。*
 
-* Choco：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)
+* [Choco](http://hao.jobbole.com/choco/)：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)
 * JaCoP：为FlatZinc语言提供了一个接口，可以执行MiniZinc模型。[官网](https://github.com/radsz/jacop/)
 * OptaPlanner：企业规划与资源调度优化求解程序。[官网](http://www.optaplanner.org/)
 * [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
