@@ -190,7 +190,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Choco](http://hao.jobbole.com/choco/)：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)
 * JaCoP：为FlatZinc语言提供了一个接口，可以执行MiniZinc模型。[官网](https://github.com/radsz/jacop/)
-* OptaPlanner：企业规划与资源调度优化求解程序。[官网](http://www.optaplanner.org/)
+* [OptaPlanner](http://hao.jobbole.com/optaplanner/)：业务规划与资源调度优化求解程序。[官网](http://www.optaplanner.org/)
 * [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
 
 <h3 id="continuous-integration">持续集成</h3>
