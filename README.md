@@ -331,7 +331,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [HPPC](http://hao.jobbole.com/hppc/)：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
 * Javolution：实时和嵌入式系统的开发库。[官网](http://javolution.org/)
 * [JCTools](http://hao.jobbole.com/jctools/)：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
-* Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
+* [Koloboke](http://hao.jobbole.com/koloboke/)：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
 * Trove：基础类型集合。[官网](http://trove.starlight-systems.com/)
 * High-scale-bli:Cliff Click 个人开发的高性能并发库[官网](https://github.com/stephenc/high-scale-lib)
 
