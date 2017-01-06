@@ -202,7 +202,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)
 * TeamCity：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
 * Travis：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
-* Buildkite: 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
+* [Buildkite](http://hao.jobbole.com/buildkite/): 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
 
 <h3 id="csv">CSV解析</h3>
 *简化CSV数据读写的框架与开发库*
@@ -216,11 +216,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Crate](http://hao.jobbole.com/crate/)：实现了数据同步、分片、缩放、复制的分布式数据存储。除此之外还可以使用基于SQL的语法跨集群查询。[官网](https://crate.io/)
 * [Flyway](http://hao.jobbole.com/flyway/)：简单的数据库迁移工具。[官网](http://flywaydb.org/)
 * [H2](http://hao.jobbole.com/h2/)：小型SQL数据库，以可以作为内存数据库使用著称。[官网](http://h2database.com/)
-* HikariCP：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
-* JDBI：便捷的JDBC抽象。[官网](http://jdbi.org/)
+* [HikariCP](http://hao.jobbole.com/hikaricp/)：高性能JDBC连接工具。[官网](https://github.com/brettwooldridge/HikariCP)
+* [JDBI](http://hao.jobbole.com/jdbi/)：便捷的JDBC抽象。[官网](http://jdbi.org/)
 * [jOOQ](http://hao.jobbole.com/jooq/)：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
 * [MapDB](http://hao.jobbole.com/mapdb/)：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
-* Presto：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
+* [Presto](http://hao.jobbole.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
 * Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
