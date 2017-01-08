@@ -152,7 +152,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [ASM](http://hao.jobbole.com/asm/)：通用底层字节码操作和分析开发库。[官网](http://asm.ow2.org/)
 * [Byte Buddy](http://hao.jobbole.com/byte-buddy/)：使用流式API进一步简化字节码生成。[官网](http://bytebuddy.net/)
-* Byteman：在运行时通过DSL（规则）操作字节码进行测试和故障排除。[官网](http://byteman.jboss.org/)
+* [Byteman](http://hao.jobbole.com/byteman/)：在运行时通过DSL（规则）操作字节码进行测试和故障排除。[官网](http://byteman.jboss.org/)
 * [Javassist](http://hao.jobbole.com/javassist/)：一个简化字节码编辑尝试。[官网](http://jboss-javassist.github.io/javassist)
 
 <h3 id="cluster-management">集群管理</h3>
@@ -196,12 +196,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="continuous-integration">持续集成</h3>
 * [Bamboo](http://hao.jobbole.com/bamboo/)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)
 * CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
-* Codeship：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
-* fabric8：容器集成平台。[官网](http://fabric8.io/)
-* Go：ThoughtWork开源解决方案。[官网](https://www.thoughtworks.com/go/)
+* [Codeship](http://hao.jobbole.com/codeship/)：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
+* [fabric8](hao.jobbole.com/fabric8/)：容器集成平台。[官网](http://fabric8.io/)
+* [Go](http://hao.jobbole.com/go/)：ThoughtWork开源解决方案。[官网](https://www.gocd.io/)
 * [Jenkins](http://hao.jobbole.com/jenkins/)：支持基于服务器的部署服务。[官网](http://jenkins-ci.org/)
-* TeamCity：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
-* Travis：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
+* [TeamCity](http://hao.jobbole.com/teamcity/)：JetBrain的持续集成解决方案，有免费版。[官网](http://www.jetbrains.com/teamcity/)
+* [Travis](http://hao.jobbole.com/travis/)：通常用作开源项目的托管服务。[官网](https://travis-ci.org)
 * [Buildkite](http://hao.jobbole.com/buildkite/): 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
 
 <h3 id="csv">CSV解析</h3>
@@ -221,7 +221,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [jOOQ](http://hao.jobbole.com/jooq/)：为SQL schema生成typesafe代码。[官网](http://www.jooq.org/)
 * [MapDB](http://hao.jobbole.com/mapdb/)：以磁盘或堆内存中并发集合为基础的嵌入式数据库引擎。[官网](http://www.mapdb.org/)
 * [Presto](http://hao.jobbole.com/presto/)：针对大数据的分布式SQL查询引擎。[官网](https://github.com/facebook/presto)
-* Querydsl：Typesafe统一查询。[官网](http://www.querydsl.com/)
+* [Querydsl](http://hao.jobbole.com/querydsl/)：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
 * Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
@@ -240,7 +240,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
-* Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
+* [Dagger2](http://hao.jobbole.com/dagger2/)：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
 * [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
 * [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
@@ -399,7 +399,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Spark](http://hao.jobbole.com/apache-spark/)：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
 * [DeepDive](http://hao.jobbole.com/deepdive/)：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * [Deeplearning4j](http://hao.jobbole.com/deeplearning4j/)：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
-* H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
+* [H2O](http://hao.jobbole.com/h2o/)：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
 * [Weka](http://hao.jobbole.com/weka/)：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
 * [QuickML](http://hao.jobbole.com/quickml/)：高效机器学习库。[官网](http://quickml.org/)、[GitHub](https://github.com/sanity/quickml)
 
