@@ -225,9 +225,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="data-structures">数据结构</h3>
 * Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
-* Protobuf：Google数据交换格式。[官网](https://github.com/google/protobuf)
-* SBE：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
-* Wire：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
+* [Protobuf](http://hao.jobbole.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf)
+* [SBE](http://hao.jobbole.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
+* [Wire](http://hao.jobbole.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
 
 <h3 id="date-and-time">时间日期工具库</h3>
 *处理时间和日期的开发库。*
@@ -239,7 +239,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="dependency-injection">依赖注入</h3>
 *帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
-* Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
+* [Apache DeltaSpike](http://hao.jobbole.com/apache-deltaspike/)：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * [Dagger2](http://hao.jobbole.com/dagger2/)：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
 * [Guice](http://hao.jobbole.com/guice/)：可以匹敌Dagger的轻量级注入框架。[官网](https://github.com/google/guice)
 * [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
