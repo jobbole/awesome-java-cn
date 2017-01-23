@@ -224,7 +224,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Querydsl](http://hao.jobbole.com/querydsl/)：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
-* Apache Parquet：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
+* [Apache Parquet](http://hao.jobbole.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
 * [Protobuf](http://hao.jobbole.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf)
 * [SBE](http://hao.jobbole.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
 * [Wire](http://hao.jobbole.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
