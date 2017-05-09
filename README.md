@@ -695,7 +695,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h4>英文站点</h4>
 
 * [Android Arsenal](https://android-arsenal.com)
-* [Google Java Style](http://hao.jobbole.com/google-java-style/)：[官网](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+* [Google Java Style](http://hao.jobbole.com/google-java-style/)：[官网](https://google.github.io/styleguide/javaguide.html)
 * [InfoQ](http://hao.jobbole.com/infoq/)：[官网](http://www.infoq.com/)
 * [Java Code Geeks](http://www.javacodegeeks.com/)
 * [Java, SQL, and jOOQ](http://blog.jooq.org/)
