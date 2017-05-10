@@ -200,6 +200,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
 
 <h3 id="continuous-integration">持续集成</h3>
+
 * [Bamboo](http://hao.jobbole.com/bamboo/)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)
 * CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
 * [Codeship](http://hao.jobbole.com/codeship/)：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
