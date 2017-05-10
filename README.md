@@ -148,6 +148,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Buck](http://hao.jobbole.com/buck/)：Facebook构建工具。[官网](https://buckbuild.com/)
 
 <h3 id="bytecode-manipulation">字节码操作</h3>
+
 *编程方式操作字节码的开发库。*
 
 * [ASM](http://hao.jobbole.com/asm/)：通用底层字节码操作和分析开发库。[官网](http://asm.ow2.org/)
@@ -156,12 +157,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Javassist](http://hao.jobbole.com/javassist/)：一个简化字节码编辑尝试。[官网](http://jboss-javassist.github.io/javassist)
 
 <h3 id="cluster-management">集群管理</h3>
+
 *在集群内动态管理应用程序的框架。*
 
 * [Apache Aurora](http://hao.jobbole.com/apache-aurora/)：Apache Aurora是一个Mesos框架，用于长时间运行服务和定时任务（cron job）。[官网](http://aurora.apache.org/)
 * [Singularity](http://hao.jobbole.com/singularity/)：Singularity是一个Mesos框架，方便部署和操作。它支持Web Service、后台运行、调度作业和一次性任务。[官网](http://getsingularity.com/)
 
 <h3 id="code-analysis">代码分析</h3>
+
 *测量代码指标和质量工具。*
 
 * [Checkstyle](http://hao.jobbole.com/checkstyle/)：代码编写规范和标准静态分析工具。[官网](https://github.com/checkstyle/checkstyle)
@@ -173,6 +176,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="compiler-compiler">编译器生成工具</h3>
+
 *用来创建解析器、解释器或编译器的框架。*
 
 * [ANTLR](http://hao.jobbole.com/antlr/)：复杂的全功能自顶向下解析框架。[官网](http://www.antlr.org/)
@@ -180,12 +184,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="configuration">外部配置工具</h3>
+
 *支持外部配置的开发库。*
 
 * [config](http://hao.jobbole.com/config/)：针对JVM语言的配置库。[官网](https://github.com/typesafehub/config)
 * [owner](http://hao.jobbole.com/owner/)：减少冗余配置属性。[官网](https://github.com/lviggiano/owner)
 
 <h3 id="constraint-satisfaction-problem-solver">约束满足问题求解程序</h3>
+
 *帮助解决约束满足问题的开发库。*
 
 * [Choco](http://hao.jobbole.com/choco/)：可直接使用的约束满足问题求解程序，使用了约束规划技术。[官网](http://choco-solver.org/)
@@ -194,6 +200,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Sat4J](http://hao.jobbole.com/sat4j/)：逻辑代数与优化问题最先进的求解程序。[官网](http://www.sat4j.org/)
 
 <h3 id="continuous-integration">持续集成</h3>
+
 * [Bamboo](http://hao.jobbole.com/bamboo/)：Atlassian解决方案，可以很好地集成Atlassian的其他产品。可以选择开源许可，也可以购买商业版。[官网](https://www.atlassian.com/software/bamboo)
 * CircleCI：提供托管服务，可以免费试用。[官网](https://circleci.com/)
 * [Codeship](http://hao.jobbole.com/codeship/)：提供托管服务，提供有限的免费模式。[官网](https://codeship.com/features)
@@ -205,11 +212,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Buildkite](http://hao.jobbole.com/buildkite/): 持续集成工具，用简单的脚本就能设置pipeline，而且能快速构建，可以免费试用。[官网](https://buildkite.com/)
 
 <h3 id="csv">CSV解析</h3>
+
 *简化CSV数据读写的框架与开发库*
 
 * [uniVocity-parsers](http://hao.jobbole.com/univocity-parsers/)：速度最快功能最全的CSV开发库之一，同时支持TSV与固定宽度记录的读写。[官网](https://github.com/uniVocity/univocity-parsers)
 
 <h3 id="database">数据库</h3>
+
 *简化数据库交互的相关工具。*
 
 * [Apache Phoenix](http://hao.jobbole.com/apache-phoenix/)：HBase针对低延时应用程序的高性能关系数据库层。[官网](http://phoenix.apache.org/)
@@ -224,12 +233,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Querydsl](http://hao.jobbole.com/querydsl/)：Typesafe统一查询。[官网](http://www.querydsl.com/)
 
 <h3 id="data-structures">数据结构</h3>
+
 * [Apache Parquet](http://hao.jobbole.com/apache-parquet/)：Google Dremel论文中发布的基于组装算法的列式（Columnar）存储格式。[官网](http://parquet.apache.org/)
 * [Protobuf](http://hao.jobbole.com/protobuf/)：Google数据交换格式。[官网](https://github.com/google/protobuf)
 * [SBE](http://hao.jobbole.com/sbe/)：简单二进制编码，是最快速的消息格式之一。[官网](https://github.com/real-logic/simple-binary-encoding)
 * [Wire](http://hao.jobbole.com/wire/)：整洁轻量级协议缓存。[官网](https://github.com/square/wire)
 
 <h3 id="date-and-time">时间日期工具库</h3>
+
 *处理时间和日期的开发库。*
 
 * [Joda-Time](http://hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
@@ -237,6 +248,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [ThreeTen](http://hao.jobbole.com/ThreeTen/)：JSR-310实现，为JDK提供更具特点的时间和日期API。[官网](http://www.threeten.org)
 
 <h3 id="dependency-injection">依赖注入</h3>
+
 *帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
 * [Apache DeltaSpike](http://hao.jobbole.com/apache-deltaspike/)：CDI扩展框架。[官网](https://deltaspike.apache.org/)
@@ -245,6 +257,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [HK2](http://hao.jobbole.com/hk2/)：轻量级动态依赖注入框架。[官网](https://hk2.java.net)
 
 <h3 id="development">开发流程增强工具</h3>
+
 *从最基本的层面增强开发流程。*
 
 * [ADT4J](http://hao.jobbole.com/adt4j/)：针对代数数据类型的JSR-269代码生成器。[官网](https://github.com/sviperll/adt4j)
@@ -260,6 +273,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [vert.x](http://hao.jobbole.com/vert-x/)：多语言事件驱动应用框架。[官网](http://vertx.io/)
 
 <h3 id="distributed-applications">分布式应用</h3>
+
 *用来编写分布式容错应用的开发库和框架。*
 
 * [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)
@@ -272,6 +286,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Quasar](http://hao.jobbole.com/quasar/)：为JVM提供轻量级线程和角色。[官网](http://www.paralleluniverse.co/quasar/)
 
 <h3 id="distributed-databases">分布式数据库</h3>
+
 *对应用程序而言，在分布式系统中的数据库看起来就像是只有一个数据源。*
 
 * [Apache Cassandra](http://hao.jobbole.com/cassandra/)：列式数据库，可用性高且没有单点故障。[官网](http://cassandra.apache.org)
@@ -280,6 +295,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
 
 <h3 id="distribution">发布</h3>
+
 *以本机格式发布应用程序的工具。*
 
 * Bintray：发布二进制文件版本控制工具。可以于Maven或Gradle一起配合使用。提供开源免费版本和几种商业收费版本。[官网](https://bintray.com/)
@@ -292,6 +308,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="document-processing">文档处理工具</h3>
+
 *处理Office文档的开发库。*
 
 * [Apache POI](http://hao.jobbole.com/poi/)：支持OOXML规范（XLSX、DOCX、PPTX）以及OLE2规范（XLS、DOC、PPT）。[官网](http://poi.apache.org/)
@@ -299,6 +316,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [jOpenDocument](http://hao.jobbole.com/jopendocument/)：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。[官网](http://www.jopendocument.org/)
 
 <h3 id="functional-programming">函数式编程</h3>
+
 *函数式编程支持库。*
 
 * Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cyclops)
@@ -308,20 +326,22 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。[官网](https://github.com/jOOQ/jOOL)
 
 <h3 id="game-development">游戏开发</h3>
+
 *游戏开发框架。*
 
 * [jMonkeyEngine](http://hao.jobbole.com/jmonkeyengine/)：现代3D游戏开发引擎。[官网](http://jmonkeyengine.org/)
 * [libGDX](http://hao.jobbole.com/libgdx/)：全面的跨平台高级框架。[官网](https://libgdx.badlogicgames.com/)
 * [LWJGL](http://hao.jobbole.com/lwjgl/)：对OpenGL/CL/AL等技术进行抽象的健壮框架。[官网](https://www.lwjgl.org/)
 
-
 <h3 id="gui">GUI</h3>
+
 *现代图形化用户界面开发库。*
 
 * [JavaFX](http://hao.jobbole.com/javafx/)：Swing的后继者。[官网](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html)
 * [Scene Builder](http://hao.jobbole.com/scene_builder/)：开发JavaFX应用的可视化布局工具。[官网](http://docs.oracle.com/javase/8/scene-builder-2/get-started-tutorial/overview.htm#JSBGS164)
 
 <h3 id="high-performance">高性能计算</h3>
+
 *涵盖了从集合到特定开发库的高性能计算相关工具。*
 
 * Agrona：高性能应用中常见的数据结构和工具方法。[官网](https://github.com/real-logic/Agrona)
@@ -336,6 +356,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * High-scale-lib:Cliff Click 个人开发的高性能并发库[官网](https://github.com/stephenc/high-scale-lib)
 
 <h3 id="ide">IDE</h3>
+
 *简化开发的集成开发环境。*
 
 * [Eclipse](http://hao.jobbole.com/eclipse/)：老牌开源项目，支持多种插件和编程语言。[官网](http://www.eclipse.org/)
@@ -345,6 +366,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [SpringSource Tool Suite（STS）](http://hao.jobbole.com/springsource-tool-suite/):一款基于Eclipse开源平台打造的Spring应用开发环境。[官网](http://spring.io/tools/sts/)
 
 <h3 id="imagery">图像处理</h3>
+
 *创建、评价和操作图片的支持库。*
 
 * [Imgscalr](http://hao.jobbole.com/imgscalr/)：纯Java 2D实现，简单、高效、支持硬件加速的图像缩放开发库。[官网](https://github.com/thebuzzmedia/imgscalr)
@@ -355,6 +377,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Batik：在Java应用中程序以SVG格式显示、生成及处理图像的工具集，包括SVG解析器、SVG生成器、SVG DOM等模块，可以集成使用也可以单独使用，还可以扩展自定义的SVG标签。[官网](http://xmlgraphics.apache.org/batik/)
 
 <h3 id="json">JSON</h3>
+
 *简化JSON处理的开发库。*
 
 * [Genson](http://hao.jobbole.com/genson/)：强大且易于使用的Java到JSON转换开发库。[官网](http://owlike.github.io/genson)
@@ -365,12 +388,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Kyro：快速、高效、自动化的Java对象序列化和克隆库。[官网](https://github.com/EsotericSoftware/kryo)
 
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
+
 *目前的JVM和JDK实现。*
 
 * [JDK 9](http://hao.jobbole.com/jdk-9/)：JDK 9的早期访问版本。[官网](https://jdk9.java.net/)
 * [OpenJDK](http://hao.jobbole.com/openjdk/)：JDK开源实现。[官网](http://openjdk.java.net/)
 
 <h3 id="languages">基于JVM的语言</h3>
+
 *除Java外，可以用来编写JVM应用程序的编程语言。*
 
 * Scala：融合了面向对象和函数式编程思想的静态类型编程语言。[官网](http://www.scala-lang.org/)
@@ -381,6 +406,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Xtend](http://hao.jobbole.com/xtend/)：一种静态编程语言，能够将其代码转换为简洁高效的Java代码，并基于JVM运行。[官网](http://www.eclipse.org/xtend/)
 
 <h3 id="logging">日志</h3>
+
 *记录应用程序行为日志的开发库。*
 
 * [Apache Log4j 2](http://hao.jobbole.com/log4j2/)：使用强大的插件和配置架构进行完全重写。[官网](http://logging.apache.org/log4j/)
@@ -391,6 +417,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [SLF4J](http://hao.jobbole.com/slf4j/)：日志抽象层，需要与具体的实现配合使用。[官网](http://www.slf4j.org/)
 
 <h3 id="machine-learning">机器学习</h3>
+
 *提供具体统计算法的工具。其算法可从数据中学习。*
 
 * [Apache Flink](http://hao.jobbole.com/apache-flink/)：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
@@ -404,6 +431,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [QuickML](http://hao.jobbole.com/quickml/)：高效机器学习库。[官网](http://quickml.org/)、[GitHub](https://github.com/sanity/quickml)
 
 <h3 id="messaging">消息传递</h3>
+
 *在客户端之间进行消息传递，确保协议独立性的工具。*
 
 * [Aeron](http://hao.jobbole.com/aeron/)：高效可扩展的单播、多播消息传递工具。[官网](https://github.com/real-logic/Aeron)
@@ -420,6 +448,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="miscellaneous">杂项</h3>
+
 *未分类其它资源。*
 
 * Design Patterns：实现并解释了最常见的设计模式。[官网](https://github.com/iluwatar/java-design-patterns)
@@ -431,6 +460,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Quartz](http://hao.jobbole.com/quartz/)：强大的任务调度库.[官网](http://www.quartz-scheduler.org/)
 
 <h3 id="monitoring">应用监控工具</h3>
+
 *监控生产环境中应用程序的工具。*
 
 * [AppDynamics](http://hao.jobbole.com/appdynamics/)：性能监测商业工具。[官网](http://www.appdynamics.com/)
@@ -441,11 +471,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [OverOps(Takipi)](http://hao.jobbole.com/overops_takipi/)：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
 
 <h3 id="native">原生开发库</h3>
+
 *用来进行特定平台开发的原生开发库。*
 
 * [JNA](http://hao.jobbole.com/jna/)：不使用JNI就可以使用原生开发库。此外，还为常见系统函数提供了接口。[官网](https://github.com/java-native-access/jna)
 
 <h3 id="natural-language-processing">自然语言处理</h3>
+
 *用来专门处理文本的函数库。*
 
 * [Apache OpenNLP](http://hao.jobbole.com/apache-opennlp/)：处理类似分词等常见任务的工具。[官网](https://opennlp.apache.org/)
@@ -454,6 +486,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Mallet](http://hao.jobbole.com/mallet/)：统计学自然语言处理、文档分类、聚类、主题建模等。[官网](http://mallet.cs.umass.edu/)
 
 <h3 id="networking">网络</h3>
+
 *网络编程函数库。*
 
 * [Async Http Client](http://hao.jobbole.com/async-http-client/)：异步HTTP和WebSocket客户端函数库。[官网](https://github.com/AsyncHttpClient/async-http-client)
@@ -463,6 +496,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
 
 <h3 id="orm">ORM</h3>
+
 *处理对象持久化的API。*
 
 * [Ebean](http://hao.jobbole.com/ebean/)：支持快速数据访问和编码的ORM框架。[官网](http://ebean-orm.github.io/)
@@ -474,6 +508,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal)
 
 <h3 id="pdf">PDF</h3>
+
 *用来帮助创建PDF文件的资源。*
 
 * [Apache FOP](http://hao.jobbole.com/apache_fop/)：从XSL-FO创建PDF。[官网](http://xmlgraphics.apache.org/fop/)
@@ -484,6 +519,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JasperReports](http://hao.jobbole.com/jasperreports/)：一个复杂的报表引擎。[官网](http://community.jaspersoft.com/project/jasperreports-library)
 
 <h3 id="performance-analysis">性能分析</h3>
+
 *性能分析、性能剖析及基准测试工具。*
 
 * [jHiccup](http://hao.jobbole.com/jhiccup/)：提供平台中JVM暂停的日志和记录。[官网](https://github.com/giltene/jHiccup)
@@ -494,6 +530,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [YourKit Java Profiler](http://hao.jobbole.com/yourkit-java-profiler/)：商业分析器。[官网](https://www.yourkit.com/features/)
 
 <h3 id="reactive-libraries">响应式开发库</h3>
+
 *用来开发响应式应用程序的开发库。*
 
 * [Reactive Streams](http://hao.jobbole.com/reactive-streams/)：异步流处理标准，支持非阻塞式反向压力（backpressure）。[官网](https://github.com/reactive-streams/reactive-streams-jv/)
@@ -502,6 +539,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="rest-frameworks">REST框架</h3>
+
 *用来创建RESTful 服务的框架。*
 
 * [Dropwizard](http://hao.jobbole.com/dropwizard/)：偏向于自己使用的Web框架。用来构建Web应用程序，使用了Jetty、Jackson、Jersey和Metrics。[官网](https://dropwizard.github.io/drpwizard/)
@@ -516,6 +554,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
 <h3 id="science">科学计算与分析</h3>
+
 *用于科学计算和分析的函数库。*
 
 * [DataMelt](http://hao.jobbole.com/datamelt/)：用于科学计算、数据分析及数据可视化的开发环境。[官网](http://jwork.org/dmelt/)
@@ -523,6 +562,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JScience](http://hao.jobbole.com/jscience/)：用来进行科学测量和单位的一组类。[官网](http://jscience.org/)
 
 <h3 id="search">搜索引擎</h3>
+
 *文档索引引擎，用于搜索和分析。*
 
 * [Apache Solr](http://hao.jobbole.com/solr/)：一个完全的企业搜索引擎。为高吞吐量通信进行了优化。[官网](http://lucene.apache.org/solr/)
@@ -530,6 +570,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Lucene：是一个开放源代码的全文检索引擎工具包，是一个全文检索引擎的架构，提供了完整的查询引擎和索引引擎，部分文本分析引擎。[官网](http://lucene.apache.org/)
 
 <h3 id="security">安全</h3>
+
 *用于处理安全、认证、授权或会话管理的函数库。*
 
 * [Apache Shiro](http://hao.jobbole.com/shiro/)：执行认证、授权、加密和会话管理。[官网](http://shiro.apache.org/)
@@ -539,6 +580,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [PicketLink](http://hao.jobbole.com/picketlink/)：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
 
 <h3 id="serialization">序列化</h3>
+
 *用来高效处理序列化的函数库。*
 
 * [FlatBuffers](http://hao.jobbole.com/flatbuffers/)：高效利用内存的序列化函数库，无需解包和解析即可高效访问序列化数据。[官网](https://github.com/google/flatbuffers)
@@ -547,6 +589,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [MessagePack](http://hao.jobbole.com/messagepack/)：一种高效的二进制序列化格式。[官网](https://github.com/msgpack/msgpack-java)
 
 <h3 id="server">应用服务器</h3>
+
 *用来部署应用程序的服务器。*
 
 * [Apache Tomcat](http://hao.jobbole.com/apache-tomcat/)：针对Servlet和JSP的应用服务器，健壮性好且适用性强。[官网](http://tomcat.apache.org/)
@@ -557,6 +600,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 
 <h3 id="template-engine">模板引擎</h3>
+
 *在模板中替换表达式的工具。*
 
 * [Apache Velocity](http://hao.jobbole.com/velocity/)：提供HTML页面模板、email模板和通用开源代码生成器模板。[官网](http://velocity.apache.org/)
@@ -565,6 +609,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
 
 <h3 id="testing">测试</h3>
+
 *测试内容从对象到接口，涵盖性能测试和基准测试工具。*
 
 * [Apache JMeter](http://hao.jobbole.com/jmeter/)：功能性测试和性能评测。[官网](http://jmeter.apache.org/)
@@ -588,6 +633,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [WireMock](http://hao.jobbole.com/wiremock/)：Web Service测试桩（Stub）和模拟函数。[官网](http://wiremock.org/)
 
 <h3 id="utility">通用工具库</h3>
+
 *通用工具类函数库。*
 
 * [Apache Commons](http://hao.jobbole.com/apache-commons/)：提供各种用途的函数，比如配置、验证、集合、文件上传或XML处理等。[官网](http://commons.apache.org/)
@@ -601,6 +647,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
 
 <h3 id="web-crawling">网络爬虫</h3>
+
 *用于分析网站内容的函数库。*
 
 * [Apache Nutch](http://hao.jobbole.com/nutch/)：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
@@ -608,6 +655,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](http://jsoup.org/)
 
 <h3 id="web-frameworks">Web框架</h3>
+
 *用于处理Web应用程序不同层次间通讯的框架。*
 
 * [Apache Tapestry](http://hao.jobbole.com/apache-tapestry/)：基于组件的框架，使用Java创建动态、强健的、高度可扩展的Web应用程序。[官网](http://tapestry.apache.org/)
@@ -625,6 +673,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
 
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
+
 *流程驱动的软件系统构建。*
 
 * [jBPM](http://hao.jobbole.com/jbpm/)：非常灵活的业务流程管理框架，致力于构建开发与业务分析人员之间的桥梁。[官网](http://www.jbpm.org/)
@@ -632,11 +681,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h2 id="resources">资源</h2>
 <h3 id="communities">社区</h3>
+
 * r/java：Reddit的Java子社区。[官网](https://www.reddit.com/r/java)
 * stackoverflow：问答平台。[官网](http://stackoverflow.com/questions/tagged/java)
 * vJUG：虚拟Java用户组。[官网](http://virtualjug.com/)
 
 <h3 id="influential-books">有影响力的书</h3>
+
 *具有广泛影响且值得阅读的Java经典书籍。*
 
 * [Effective Java (2nd Edition)](http://hao.jobbole.com/effective-java/)
@@ -646,17 +697,20 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Java Puzzlers | Java解惑](http://hao.jobbole.com/java-puzzlers/)
 
 <h3 id="podcasts">播客</h3>
+
 *可以一边编程一边听的东西。*
 
 * Java Council：[官网](http://virtualjug.com/podcast/)
 * Java Posse：Discontinued as of 02/2015.[官网](http://www.javaposse.com/)
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * ImportNew：是最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。 
 <br>![](http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg)
 * ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
 
 <h3 id="twitter">Twitter</h3>
+
 * [Adam Bien](https://twitter.com/AdamBien/)：自由职业者、作家、JavaONE明星演讲者、顾问、Java Champion。
 * [Antonio Goncalves](https://twitter.com/agoncal/)：Java Champion、JUG Leader、Devoxx France、Java EE 6/7、JCP、作家。
 * [Arun Gupta](https://twitter.com/arungupta/)：Java Champion、JavaONE明星演讲者、JUG Leader、Devoxx4Kids成员、Red Hatter。
@@ -681,11 +735,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Trisha Gee](https://twitter.com/trisha_gee)：Java Champion、演讲者。
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
 * ImportNew：最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
 <br><img src="http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg" width=150 height=150>
 
 <h3 id="websites">知名网站</h3>
+
 *值得关注的Java技术站点。*
 
 <h4>中文站点</h4>
