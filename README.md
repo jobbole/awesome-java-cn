@@ -653,6 +653,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Nutch](http://hao.jobbole.com/nutch/)：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
 * [Crawler4j](http://hao.jobbole.com/crawler4j/)：简单的轻量级网络爬虫。[官网](https://github.com/yasserg/crawler4j)
 * [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](http://jsoup.org/)
+* [webmagic](https://github.com/code4craft/webmagic/)：一个可扩展的Java爬虫框架，架构类似Python的Scrapy。
 
 <h3 id="web-frameworks">Web框架</h3>
 
