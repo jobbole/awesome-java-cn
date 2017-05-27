@@ -506,6 +506,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
 * Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)
 * JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal)
+* [Apache OpenJPA](http://openjpa.apache.org/): 实现了 EJB 3.0 中的 JPA 标准,为开发者提供功能强大、使用简单的持久化数据管理框架。 [官网](http://openjpa.apache.org/)
 
 <h3 id="pdf">PDF</h3>
 
