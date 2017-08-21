@@ -503,7 +503,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
-* Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)
+* [Nutz](https://nutz.cn)：Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer 。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)
 * JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal)
 * [Apache OpenJPA](http://openjpa.apache.org/): 实现了 EJB 3.0 中的 JPA 标准,为开发者提供功能强大、使用简单的持久化数据管理框架。 [官网](http://openjpa.apache.org/)
 
