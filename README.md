@@ -61,7 +61,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [奖励详情](http://hao.jobbole.com/rewards/)
 
 * * *
-### 目录
+
+<h3 id="awesome-java-cn">目录</h3>
+
 - [Java资源大全中文版](#awesome-java-cn)
     - [古董级工具](#ancients)
     - [构建工具](#build)
