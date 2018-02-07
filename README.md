@@ -122,7 +122,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [微博、微信公众号](#weibo-weixin)
     - [Twitter](#twitter)
     - [知名网站](#websites)
-    - [博客](blogs)
 
 
 <h2 id="ancients">古董级工具</h2>
@@ -504,8 +503,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Hibernate](http://hao.jobbole.com/hibernate/)：广泛使用、强健的持久化框架。Hibernate的技术社区非常活跃。[官网](http://hibernate.org/orm/)
 * [MyBatis](http://hao.jobbole.com/mybatis/)：带有存储过程或者SQL语句的耦合对象（Couples object）。[官网](http://mybatis.github.io/mybatis-3/)
 * [OrmLite](http://hao.jobbole.com/ormlite/)：轻量级开发包，免除了其它ORM产品中的复杂性和开销。[官网](http://ormlite.com/)
-* Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)
+* Nutz：另一个SSH。[官网](http://nutzam.com/)，[Github](https://github.com/nutzam/nutz)，[论坛](https://nutz.cn/)
 * JFinal：JAVA WEB + ORM框架。[官网](http://www.jfinal.com)，[Github](https://github.com/jfinal/jfinal)
+* [Apache OpenJPA](http://openjpa.apache.org/): 实现了 EJB 3.0 中的 JPA 标准,为开发者提供功能强大、使用简单的持久化数据管理框架。 [官网](http://openjpa.apache.org/)
 
 <h3 id="pdf">PDF</h3>
 
@@ -607,6 +607,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [FreeMarker](http://hao.jobbole.com/freemarker/)：通用模板引擎，不需要任何重量级或自己使用的依赖关系。[官网](http://freemarker.org/)
 * [Handlebars.java](http://hao.jobbole.com/handlebars-java/)：使用Java编写的模板引擎，逻辑简单，支持语义扩展（semantic Mustache）。[官网](http://jknack.github.io/handlebars.java/)
 * [Thymeleaf](http://hao.jobbole.com/thymeleaf/)：旨在替换JSP，支持XML文件的工具。[官网](http://www.thymeleaf.org/)
+* [Beetl](http://ibeetl.com/)：新一代的模板引擎，功能强大，性能良好，超过当前流行的模板引擎。而且还易学易用。[官网](http://ibeetl.com/)
 
 <h3 id="testing">测试</h3>
 
@@ -653,6 +654,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache Nutch](http://hao.jobbole.com/nutch/)：可用于生产环境的高度可扩展、可伸缩的网络爬虫。[官网](http://nutch.apache.org/)
 * [Crawler4j](http://hao.jobbole.com/crawler4j/)：简单的轻量级网络爬虫。[官网](https://github.com/yasserg/crawler4j)
 * [JSoup](http://hao.jobbole.com/jsoup/)：刮取、解析、操作和清理HTML。[官网](http://jsoup.org/)
+* [webmagic](https://github.com/code4craft/webmagic/)：一个可扩展的Java爬虫框架，架构类似Python的Scrapy。
 
 <h3 id="web-frameworks">Web框架</h3>
 
