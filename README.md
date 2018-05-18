@@ -687,6 +687,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * r/java：Reddit的Java子社区。[官网](https://www.reddit.com/r/java)
 * stackoverflow：问答平台。[官网](http://stackoverflow.com/questions/tagged/java)
 * vJUG：虚拟Java用户组。[官网](http://virtualjug.com/)
+* java8 新特性教程例子。[github](https://github.com/winterbe/java8-tutorial)
 
 <h3 id="influential-books">有影响力的书</h3>
 
