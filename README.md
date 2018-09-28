@@ -493,7 +493,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Netty](http://hao.jobbole.com/netty/)：构建高性能网络应用程序开发框架。[官网](http://netty.io/)
 * [OkHttp](http://hao.jobbole.com/okhttp/)：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
-
+* unirest-java: Unirest 是一个轻量级的 HTTP 请求库，涵盖 Node、Ruby、Java、PHP、Python、Objective-C、.NET 等多种语言。可发起 GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS 请求。[官网](http://unirest.io/java)
 <h3 id="orm">ORM</h3>
 
 *处理对象持久化的API。*
