@@ -703,7 +703,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *可以一边编程一边听的东西。*
 
-* Java Council：[官网](http://virtualjug.com/podcast/)
+* Java Council：[官网](http://virtualjug.com/#podcast/)
 * Java Posse：Discontinued as of 02/2015.[官网](http://www.javaposse.com/)
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
