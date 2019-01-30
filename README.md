@@ -179,7 +179,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *用来创建解析器、解释器或编译器的框架。*
 
 * [ANTLR](http://hao.jobbole.com/antlr/)：复杂的全功能自顶向下解析框架。[官网](http://www.antlr.org/)
-* [JavaCC](JavaCC：Java语法解析器生成工具)：JavaCC是更加专门的轻量级工具，易于上手且支持语法超前预测。[官网](https://javacc.java.net/)
+* [JavaCC](http://hao.jobbole.com/javacc/)：JavaCC是更加专门的轻量级工具，易于上手且支持语法超前预测。[官网](https://javacc.org/)
 
 
 <h3 id="configuration">外部配置工具</h3>
