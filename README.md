@@ -292,6 +292,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Apache HBase](http://hao.jobbole.com/hbase/)：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)
 * [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)
 * [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
+* [TiDB]()：开源分布式HTAP数据库，结合了传统的RDBMS和NoSQL的最佳特性。[官网](https://pingcap.com)
 
 <h3 id="distribution">发布</h3>
 
