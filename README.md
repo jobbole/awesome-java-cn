@@ -494,8 +494,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [OkHttp](http://hao.jobbole.com/okhttp/)：一个Android和Java应用的HTTP+SPDY客户端。[官网](http://square.github.io/okhttp/)
 * Undertow：基于NIO实现了阻塞和非阻塞API的Web服务器，在WildFly中作为网络层使用。[官网](http://undertow.io/)
 * unirest-java: Unirest 是一个轻量级的 HTTP 请求库，涵盖 Node、Ruby、Java、PHP、Python、Objective-C、.NET 等多种语言。可发起 GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS 请求。[官网](http://unirest.io/java)
-<h3 id="orm">ORM</h3>
 * brpc-java: java版baidu rpc框架，高性能、多协议、易扩展、低耦合。[官网](https://github.com/baidu/brpc-java)
+
+<h3 id="orm">ORM</h3>
 
 *处理对象持久化的API。*
 
