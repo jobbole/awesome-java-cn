@@ -554,7 +554,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Retrofit](http://hao.jobbole.com/retrofit/)：类型安全的REST客户端。[官网](http://square.github.io/retrofit/)
 * [Spark](http://hao.jobbole.com/sparkjava/)：受到Sinatra启发的Java REST框架。[官网](http://sparkjava.com/)
 * [Swagger](http://hao.jobbole.com/swagger/)：Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。[官网](http://swagger.io/)
-* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://lets-blade.com/)
 
 <h3 id="science">科学计算与分析</h3>
 
@@ -675,7 +675,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Spring Boot](http://hao.jobbole.com/spring-boot/)：微框架，简化了Spring新程序的开发过程。[官网](http://projects.spring.io/spring-boot/)
 * [Spring](http://hao.jobbole.com/spring-framework/)：旨在简化Java EE的开发过程，提供依赖注入相关组件并支持面向切面编程。[官网](http://projects.spring.io/spring-framework/)
 * [Vaadin](http://hao.jobbole.com/vaadin/)：基于GWT构建的事件驱动框架。使用服务端架构，客户端使用Ajax。[官网](https://vaadin.com/)
-* Blade：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://github.com/biezhi/blade)
+* [Blade](http://hao.jobbole.com/bladejava/)：国人开发的一个轻量级的MVC框架. 它拥有简洁的代码，优雅的设计。[官网](https://lets-blade.com/)
 
 <h3 id="Business-Process-Management">业务流程管理套件</h3>
 
