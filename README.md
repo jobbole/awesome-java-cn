@@ -649,6 +649,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [javatuples](http://hao.jobbole.com/javatuples/)：正如名字表示的那样，提供tuple支持。尽管目前tuple的概念还有留有争议。[官网](http://www.javatuples.org/)
 * [JCommander](http://hao.jobbole.com/jcommander/)：命令行参数解析器。[官网](http://jcommander.org/)
 * [Protégé](http://hao.jobbole.com/protege/)：提供存在论（ontology）编辑器以及构建知识系统的框架。[官网](http://protege.stanford.edu/)
+* [Hutool](https://github.com/looly/hutool)：一个Java工具集，缓存、HTTP、加密解密、DFA、JSON、分组配置文件、数据库操作、图片验证码、Excel读写、定时任务、模板引擎、邮件、Servlet、二维码、Emoji、分词等一系列工具类。[官网](https://hutool.cn)
 
 <h3 id="web-crawling">网络爬虫</h3>
 
