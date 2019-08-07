@@ -332,6 +332,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [jMonkeyEngine](http://hao.jobbole.com/jmonkeyengine/)：现代3D游戏开发引擎。[官网](http://jmonkeyengine.org/)
 * [libGDX](http://hao.jobbole.com/libgdx/)：全面的跨平台高级框架。[官网](https://libgdx.badlogicgames.com/)
 * [LWJGL](http://hao.jobbole.com/lwjgl/)：对OpenGL/CL/AL等技术进行抽象的健壮框架。[官网](https://www.lwjgl.org/)
+* [jPCT](https://github.com/XuZhongCN/jpct)：基于OpenGL技术开发的3D图形引擎。纯Java的3D引擎。[官网](http://www.jpct.net/)
 
 <h3 id="gui">GUI</h3>
 
