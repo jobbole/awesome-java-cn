@@ -583,6 +583,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Cryptomator](http://www.importnew.com/cryptomator/)：在云上进行客户端跨平台透明加密。[官网](https://cryptomator.org/)
 * [Keycloak](http://www.importnew.com/keycloak/)：为浏览器应用和RESTful Web Service集成SSO和IDM。目前还处于beta版本，但是看起来非常有前途。[官网](http://keycloak.jboss.org/)
 * [PicketLink](http://www.importnew.com/picketlink/)：PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目（Umbrella Project）。[官网](http://picketlink.org/)
+* [Sa-Token](https://github.com/dromara/sa-token)：Sa-Token 是一个轻量级 Java 权限认证框架，主要解决：登录认证、权限认证、Session会话、单点登录、OAuth2.0、微服务网关鉴权 等一系列权限相关问题。[官网](https://sa-token.dev33.cn/)
 
 <h3 id="serialization">序列化</h3>
 
