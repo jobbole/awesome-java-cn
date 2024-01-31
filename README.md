@@ -633,6 +633,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [REST Assured](http://www.importnew.com/rest-assured/)：为REST/HTTP服务提供方便测试的Java DSL。[官网](https://github.com/jayway/rest-assured)
 * [Selenide](http://www.importnew.com/selenide/)：为Selenium提供精准的周边API，用来编写稳定且可读的UI测试。[官网](http://selenide.org/)
 * [Selenium](http://www.importnew.com/selenium/)：为Web应用程序提供可移植软件测试框架。[官网](http://docs.seleniumhq.org/)
+* [Selfie](https://github.com/diffplug/selfie): 快照测试。[官网](https://selfie.dev/jvm)
 * [Spock](http://www.importnew.com/spock/)：JUnit-compatible framework featuring an expressive Groovy-derived specification language.[官网](http://docs.spockframework.org/)兼容JUnit框架，支持衍生的Groovy范的语言。
 * [TestNG](http://www.importnew.com/testng/)：测试框架。[官网](http://testng.org/)
 * [Truth](http://www.importnew.com/truth/)：Google的断言和命题（proposition）框架。[官网](https://github.com/google/truth)
